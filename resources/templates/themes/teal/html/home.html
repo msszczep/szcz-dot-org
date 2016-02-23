@@ -10,10 +10,10 @@
 
     <div id="prev-next">
         {% if post.prev %}
-        <a href="{{post.prev.uri}}">&laquo; {{post.prev.title}}</a>
+        <p><b>Previous:</b> <a href="{{post.prev.uri}}">{{post.prev.title}}</a></p>
         {% endif %}
         {% if post.next %}
-        <a class="right" href="{{post.next.uri}}">{{post.next.title}} &raquo;</a>
+        <p><b>Next:</b> <a href="{{post.next.uri}}">{{post.next.title}}</a></p>
         {% endif %}
     </div>
 </div>

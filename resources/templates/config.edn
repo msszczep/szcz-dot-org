@@ -1,6 +1,6 @@
 {:site-title         "SZCZ.org"
  :author             "Mitchell Szczepanczyk"
- :description        "The website of Mitchell Szczepanczyk"
+ :description        "The personal website of Mitchell Szczepanczyk"
  :site-url           "http://www.szcz.org/"
  :post-root          "posts"
  :tag-root           "tags"

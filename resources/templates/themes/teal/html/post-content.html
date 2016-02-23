@@ -14,8 +14,10 @@
 {% if post.tags|not-empty %}
 <div id="post-tags">
     <b>Tags: </b>
+    <ul>
     {% for tag in post.tags %}
-    <a href="{{tag.uri}}">{{tag.name}}</a>
+    <li><a href="{{tag.uri}}">{{tag.name}}</a>
     {% endfor %}
+    </ul>
 </div>
 {% endif %}
