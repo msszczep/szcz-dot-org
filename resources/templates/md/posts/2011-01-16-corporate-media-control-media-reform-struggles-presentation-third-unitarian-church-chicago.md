@@ -1,4 +1,4 @@
-{:title ""Corporate Media Control and Media Reform Struggles" - A Presentation at Third Unitarian Church, Chicago"
+{:title "Corporate Media Control and Media Reform Struggles - A Presentation at Third Unitarian Church, Chicago"
 :layout :post
 :tags  ["media"]}
 
