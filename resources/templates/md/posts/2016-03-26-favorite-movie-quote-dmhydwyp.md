@@ -4,7 +4,7 @@
 
 The Hollywood Reporter recently [released their list](http://www.hollywoodreporter.com/lists/best-movie-quotes-hollywoods-top-867142/item/i-couldve-been-a-contender-866849) of what they deemed to be the best movie quotes from the history of Hollywood.  Of course, the American Film Institute [also has its vaunted list](http://www.afi.com/100Years/quotes.aspx) of what it deems the greatest movie quotes of all time.   
 
-But both lists omitted my personal favorite movie quote of all time.  It's easy to miss because it's a from movie little considered now (for good reason) -- the 1988 movie [License to Drive](http://www.imdb.com/title/tt0095519/?ref_=nv_sr_1).  The movie has one, and _only_ one, redeeming facet -- [this quote](https://www.youtube.com/watch?v=5ZV8WZtXmL4&t=11m19s):
+But both lists omitted my personal favorite movie quote of all time.  It's easy to miss because it's from a movie little considered now (for good reason) -- the 1988 movie [License to Drive](http://www.imdb.com/title/tt0095519/?ref_=nv_sr_1).  The movie has one, and _only_ one, redeeming facet -- [this quote](https://www.youtube.com/watch?v=5ZV8WZtXmL4&t=11m19s):
 
 _Does Mommy hold your dicks when you piss?_
 
