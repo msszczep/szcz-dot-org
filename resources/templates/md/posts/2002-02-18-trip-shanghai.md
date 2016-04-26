@@ -48,7 +48,7 @@ Nanjing Road might be my favorite place to be, but my vote for Coolest Building 
 
 ![](http://www.szcz.org/img/shanghai2.jpg)
 
-The hypodermic-needle-shaped Tower has become (in my mind at least) _the defining landmark of the Shanghai skyline.  Not without controversy, of course, but remember that the Eiffel Tower was considered a blight to the Parisian skyline (maybe some think it still is).  When I took these photos, there happened to be a high-school marching band.  In the bottom photo, you can almost see a couple of tubas jutting up above the stairs.
+The hypodermic-needle-shaped Tower has become (in my mind at least) _the_ defining landmark of the Shanghai skyline.  Not without controversy, of course, but remember that the Eiffel Tower was considered a blight to the Parisian skyline (maybe some think it still is).  When I took these photos, there happened to be a high-school marching band.  In the bottom photo, you can almost see a couple of tubas jutting up above the stairs.
 
 But when you go to the 263-meter-high observation deck, you can see...this:
 
