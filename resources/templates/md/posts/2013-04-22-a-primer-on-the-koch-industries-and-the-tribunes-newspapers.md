@@ -3,9 +3,9 @@
 :tags  ["media"]}
 
 The New York Times reported on Sunday, April 20th, that Koch Industries, run
-by the infamous Koch brothers -- they of oil and global warming infamy -- [is
+by the infamous Koch brothers -- they of oil and global warming infamy -- is
 considered the frontrunner in the race to buy the Tribune corporation's
-newspapers, including the Chicago Tribune and the Los Angeles Times.  
+newspapers, including the Chicago Tribune and the Los Angeles Times.
   
 Understandably, [revulsion is widespread over the very prospect](http://thinkprogress.org/media/2013/04/21/1899241/koch-brothers-newspapers/), but many folks apparently need to be updated on a few things.  
   
@@ -22,7 +22,7 @@ city in America. The FCC, then led by the infamous Michael Powell (who's now
 activists rallied Americans to what was happening just in time, and the
 resulting outcry galvanized a court challenge which overturned the FCC's
 attempt to overwrite those media ownership rules. (A second attempt in 2007 to
-rewrite those rules failed a second time in court.)  
+rewrite those rules failed a second time in court.)
   
 The Tribune corporation, whiny over its loss, [moaned about the turn of events on its editorial pages](http://www.chicagomediaaction.org/news.php?id=152), and filed appeals to overturn the ruling. [Those appeals failed](http://www.chicagomediaaction.org/news.php?id=292), and when
 Tribune shareholders saw that the Tribune had no Plan B for carrying out this
@@ -34,7 +34,7 @@ of growth, Zell led [the Tribune into bankruptcy for four years](http://www.chic
 In early 2013 the Tribune emerged out from bankruptcy, but all reports say
 that the commutation is actually a death sentence, [as Tribune plans to sell off most if not all of its media properties](http://www.chicagomediaaction.org/news.php?id=700). (It has
 already sold off the Chicago Cubs baseball team, which it owned since the
-1980s.) First on the chopping block: the newspaper holdings.  
+1980s.) First on the chopping block: the newspaper holdings.
   
 It's an irony that grassroots political activism played a key role in what
 could be a buyout of a major American newspaper chain by two of America's most
@@ -44,7 +44,7 @@ the efforts to block the immediate media ownership rules at the FCC, while
 successful, haven't (yet) addressed deeper concerns regarding undue political
 influence, and corporate involvement in media and politics. [I've been working on this myself](http://www.szcz.org/); [no doubt others will as well](http://www.iopsociety.org). But suffice it to say that the Koch
 buyout of the Tribune newspapers isn't a foregone conclusion for a number of
-reasons.  
+reasons.
   
 For one, the Kochs will now get the full-throated response of the
 environmental movement in addition to the media reform and media justice
@@ -53,8 +53,8 @@ environmental movement has [increasingly been flexing its muscle on the climate 
 widen their influence by buying out a number of prominent newspapers, they
 will add their voices to the resistance. And it's been the growth of voices of
 resistance which proved critical in blocking previous attempts at widening
-media concentration.  
-  
+media concentration.
+
 For another, the FCC (the government agency which would have to approve a
 transfer) is in a state of flux. They are short of their full complement of
 five commissioners, with Republican Robert McDowell departing and chair Julius
@@ -67,7 +67,7 @@ rabbit hole again for a third consecutive time. Even so, the FCC might still
 grant a one-time waiver or waivers for a transfer without having to enact a
 full and thorny media ownership rewrite. But even _that_ might not work: the
 FCC actually granted an exception to the Tribune itself in 2007, and that
-action did nothing to prevent its current travails.  
+action did nothing to prevent its current travails.
   
 What's more, the Tribune could choose a less-notorious (or less-well-known)
 company to buy out its newspapers. Sure, the Kochs are currently the leading
