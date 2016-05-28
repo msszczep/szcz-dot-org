@@ -2,6 +2,8 @@
 :layout :post
 :tags  ["science"]}
 
+<img src="http://www.szcz.org/img/pregnant.jpg" alt="Dice" style="width: 300px;"/>
+
 I barely discuss this fact, and this may be the first time I've ever mentioned this online: I'm a firm teetotaler.  I don't drink alcohol; never have, never will.  The one time I've never had anything stronger than church wine in my life was one time in my sophomore year of college when I ate soup that I didn't find out until after I ate it that it was made with unboiled wine.  I was tipsy for much of the evening, I didn't like the sensation, and I was relieved when it wore off and I had full control of my faculties again. 
 
 If I had been in the United States a century ago, I could see myself participating [in the anti-alcohol movements of the day](http://www.pbs.org/kenburns/prohibition/roots-of-prohibition/).  Of course, I know that the consequences of the effort were, ahem, [less than successful](http://www.pbs.org/kenburns/prohibition/unintended-consequences/) and imposing a ban on drinking alcohol for non-medicinal purposes is not the best policy for society overall.
