@@ -5,7 +5,9 @@
 _I wrote and submitted the following essay for the TV Issue of [Chicago Literati](https://chicagoliterati.com/category/the-tv-issue/) magazine.  The essay wasn't accepted by Chicago Literati for publication, so I'm posting it here.  I finished the essay on February 4, 2015._ 
 
 My Nine Million TVs
+
 By Mitchell Szczepanczyk
+
 Nonfiction – 1,018 words
 
 Title: How I took nine million TV sets to the FCC
