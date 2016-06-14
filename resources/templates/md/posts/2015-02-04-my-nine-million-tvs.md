@@ -36,6 +36,6 @@ True to form, the FCC rejected both petitions about a year after we filed.  The 
 
 I expect a fifth rejection whenever the FCC gets around to it, but thereafter who knows?  A lot has changed in the ten years since we first filed, especially when it comes to television.  The success of this license challenge -- and future challenges to come, legal and otherwise -- hinges on continued activism outside of the courtroom. Indeed, that has been the bulk of work that my compatriots and I have done since our filing in 2005 with some success, and which we will continue to do.  
 
-<img src="http://www.szcz.org/img/mitchell_bandw.jpg" alt="bandw" style="width: 50px;"/>
+<img src="http://www.szcz.org/img/mitchell_bandw.png" alt="bandw" style="width: 50px;"/>
 
 Mitchell Szczepanczyk is a longtime organizer and activist with Chicago Media Action, and a radio and TV producer with Chicago Indymedia.  His website is www.szcz.org
