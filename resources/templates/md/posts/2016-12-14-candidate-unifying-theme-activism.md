@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["economics"]}
 
-<img src="http://www.szcz.org/img/voltron.jpg" alt="fingers into a fist" style="width: 150px;"/>
+<img src="http://www.szcz.org/img/voltron.jpg" alt="fingers into a fist" style="width: 300px;"/>
 
 [When will disaffected American whites](https://www.washingtonpost.com/blogs/plum-line/wp/2016/11/23/how-long-before-the-white-working-class-realizes-trump-was-just-scamming-them/) realize that the clown they put in the White House will do nary a thing to improve their lives?  The answer is, probably sooner than anyone realizes.  I think it behooves those of us involved in justice work to have our act together when the disappointment comes.  And make no mistake: Trump will disappoint.
 
