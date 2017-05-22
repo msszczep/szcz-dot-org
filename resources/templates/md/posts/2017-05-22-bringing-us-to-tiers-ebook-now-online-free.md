@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["indymedia" "media"]}
 
-<img src="http://www.szcz.org/img/bringing_us_to_tiers_picture.png" alt="Bringing Us To Tiers" style="width: 300px;"/>
+<img src="http://www.szcz.org/img/bringingustotierspicture.png" alt="Bringing Us To Tiers" style="width: 300px;"/>
 
 In the summer of 2014, it looked dire for the future of net neutrality.  The FCC had announced that it was going to cave to an industry plan to 
 introduce "paid prioritization".  And yet, people rallied -- in lots of ways, working the inside game and the outside game.
