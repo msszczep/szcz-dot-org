@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["science"]}
 
-<img src="http://www.szcz.org/img/mytree.jpg" alt="Tree"/>
+<img src="http://www.szcz.org/img/mytree.jpg" alt="30 years old and three stories tall"/>
 
 I am [a father to a little boy](http://www.szcz.org/posts/2010-03-12-witamy-serdecznie-welcome-world-zachary-kauser-szczepanczyk), but I have another child that I haven't talked about very much.  This child dates back to 1988, has been indoors -- inside of a church -- exactly once, and has now grown to a height greater than a three-story building.  This child, at this writing nearly thirty years of age, isn't human but is instead a tree, pictured above.  
 
