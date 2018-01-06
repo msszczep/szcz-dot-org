@@ -17,12 +17,12 @@ subanagrams'. You don't need to worry about typing in upper or lower case, but
 please be sure that whatever you type has no spaces and please be patient as
 it may take a bit of time.
 
-<FORM METHOD="get" ACTION="http://www.szcz.org/cgi-bin/subanagram.py">
-<INPUT TYPE="text" NAME="word" SIZE="15" MAXLENGTH="40">
-<INPUT TYPE="submit" NAME="submit" VALUE="Find subanagrams">
-</FORM>
+<input id="subanagram-input" type="text"></input>
+<button id="find-subanagrams">Find Subanagrams</button>
+<p id="subanagram-results"></p>
+<script type="text/javascript" src="http://localhost:3000/js/subanagram.js"></script>
 
-I've put the [original Perl source code for the subanagram script](http://www.szcz.org/subanagram.txt) under a General Public
+I've put the [original Perl source code for the subanagram script](https://gist.github.com/msszczep/4d5ed17d64c2da4fb676209b7dc4ca00) under a General Public
 License.
 
 **Update, December 8, 2002**: I fixed a bug in the code on December 8, 2002. This
