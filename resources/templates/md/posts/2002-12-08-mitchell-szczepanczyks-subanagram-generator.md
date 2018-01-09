@@ -1,4 +1,3 @@
-{:title "Mitchell Szczepanczyk's Subanagram Generator"
 :layout :post
 :tags  ["language"]}
 
@@ -20,7 +19,7 @@ it may take a bit of time.
 <input id="subanagram-input" type="text"></input>
 <button id="find-subanagrams">Find Subanagrams</button>
 <p id="subanagram-results"></p>
-<script type="text/javascript" src="http://localhost:3000/js/subanagram.js"></script>
+<script type="text/javascript" src="http://www.szcz.org/js/subanagram.js"></script>
 
 I've put the [original Perl source code for the subanagram script](https://gist.github.com/msszczep/4d5ed17d64c2da4fb676209b7dc4ca00) under a General Public
 License.
@@ -57,8 +56,7 @@ ASCII-sort order.
 
 **Update, November 15, 2012**: After a server migration, it turns out that the new
 server didn't have Perl anymore, so the script always broke. I replaced the
-Perl script with a Python script (the resulting script was 30% smaller) and
-updated the link above.
+Perl script with a [Python script](https://gist.github.com/msszczep/a4b1f9e92c4b260ba4162f9758476829) (the resulting script was 30% smaller) and updated the link above.
 
 **Update, October 26, 2013**: I fixed the irregular plurals problem -- as well as
 that for a great many plural words -- by adding in the words from a version of
@@ -66,3 +64,11 @@ the Official Scrabble Players Dictionary into the dictionary used by the
 Subanagram Generator. This means, for example, that "snowflakes" now will
 deliver back "snakes" as a subanagram. The new combined dictionary now has
 275,246 entries.
+
+**Update, January 9, 2018**: As part of my continuing efforts to clean up and
+modernize my website, and to continue to scratch my Clojure itch, I rewrote the
+subanagram app as a [Clojurescript app](https://github.com/msszczep/subanagram-cljs)
+which compiles to Javascript.  Advantages: I'm able to close down the cgi-bin
+directory on my website, I don't need an HTML form anymore, the code I need to
+maintain by hand is elegant and concise, and the app serves as a useful template
+for other Clojurescript apps.
