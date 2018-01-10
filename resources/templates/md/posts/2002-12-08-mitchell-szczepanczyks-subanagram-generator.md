@@ -1,5 +1,6 @@
+{:title "Mitchell Szczepanczyk's Subanagram Generator"
 :layout :post
-:tags  ["language"]}
+:tags  ["language" "programming"]}
 
 In December 2001, I received an e-mail from my sister who teaches English to
 5th and 6th grades. She e-mailed me to say that she gave her class the
