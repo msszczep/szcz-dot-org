@@ -8,7 +8,7 @@ Mitchell Szczepanczyk is a software developer who has pursued a suite of differe
 
 ## Software / Computer Programming
 
-Since 2000, Mitchell has worked as a professional software developer and engineer, and he is expert in a number of computer programming and scripting languages.  His strongest languages are Python, Clojure, Clojurescript, Elm, and Javascript; he alo has experience with Java, Ruby, the Wolfram Language (Mathematica), ASP, and Erlang; and he has past experience with PHP, Perl, Lisp, C, and Fortran.  Some of his code is available online on his [Github](https://github.com/msszczep) and [Github Gist](https://gist.github.com/msszczep) accounts.
+Since 2000, Mitchell has worked as a professional software developer and engineer, and he is expert in a number of computer programming and scripting languages.  His strongest languages are Python, Clojure, Clojurescript, Elm, and Javascript; he also has experience with Java, Ruby, the Wolfram Language (Mathematica), ASP, and Erlang; and he has past experience with PHP, Perl, Lisp, C, and Fortran.  Some of his code is available online on his [Github](https://github.com/msszczep) and [Github Gist](https://gist.github.com/msszczep) accounts.
  
 ## Radio
 
