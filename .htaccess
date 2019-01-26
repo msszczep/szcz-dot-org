@@ -1,0 +1,729 @@
+RewriteEngine on
+RewriteBase /
+
+#RewriteRule article/(.*) article.php?id=$1
+#RewriteRule (category/)?indymedia(/)? index.php?id=1
+#RewriteRule (category/)?chicago_maroon(/)? index.php?id=2
+#RewriteRule (category/)?languagefun(/)? index.php?id=3
+#RewriteRule (category/)?gatewayarch(/)? index.php?id=4
+#RewriteRule (category/)?misc_media(/)? index.php?id=5
+#RewriteRule (category/)?braingames(/)? index.php?id=6
+#RewriteRule (category/)?quotes(/)? index.php?id=7
+#RewriteRule (category/)?radio(/)? index.php?id=8
+#RewriteRule (category/)?reviews(/)? index.php?id=9
+#RewriteRule (category/)?science_and_math(/)? index.php?id=10
+#RewriteRule (category/)?short_plays(/)? index.php?id=11
+#RewriteRule (category/)?stanleycup(/)? index.php?id=12
+#RewriteRule (category/)?thirdcoastpress(/)? index.php?id=13
+#RewriteRule (category/)?economics(/)? index.php?id=14
+#RewriteRule contact(/)? about-me.php?action=contact
+#RewriteRule biography(/)? about-me.php?action=biography
+#RewriteRule legal(/)? about-me.php?action=legal
+#RewriteRule pronunciation(/)? about-me.php?action=pronunciation
+#RewriteRule blog/ archives.html
+# Redirect 301 /audio/tmot_2005-03-03.mp3 http://ia351409.us.archive.org/3/items/TheMinistryofTruth2005/tmot_2005-03-03.mp3
+Redirect 301 /audio/tmot_2004-11-04.mp3 http://www.archive.org/download/TheMinistryOfTruthNab-TheNationalAssociationOfBastards/tmot_2004-11-04.mp3 
+Redirect 301 /audio/tmot_2005-01-06.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-01-06.mp3
+Redirect 301 /audio/tmot_2005-01-13.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-01-13.mp3
+Redirect 301 /audio/tmot_2005-01-20.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-01-20.mp3
+Redirect 301 /audio/tmot_2005-01-26.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-01-26.mp3
+Redirect 301 /audio/tmot_2005-02-03.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-02-03.mp3
+Redirect 301 /audio/tmot_2005-02-10.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-02-10.mp3
+Redirect 301 /audio/tmot_2005-02-17.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-02-17.mp3
+Redirect 301 /audio/tmot_2005-02-23.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-02-23.mp3
+Redirect 301 /audio/tmot_2005-03-03.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-03-03.mp3
+Redirect 301 /audio/tmot_2005-03-10.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-03-10.mp3
+Redirect 301 /audio/tmot_2005-03-17.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-03-17.mp3
+Redirect 301 /audio/tmot_2005-03-22.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-03-22.mp3
+Redirect 301 /audio/tmot_2005-03-31.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-03-31.mp3
+Redirect 301 /audio/tmot_2005-04-14.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-04-14.mp3
+Redirect 301 /audio/tmot_2005-04-21.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-04-21.mp3
+Redirect 301 /audio/tmot_2005-04-28.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-04-28.mp3
+Redirect 301 /audio/tmot_2005-05-05.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-05-05.mp3
+Redirect 301 /audio/tmot_2005-05-26.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-05-26.mp3
+Redirect 301 /audio/tmot_2005-06-02.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-06-02.mp3
+Redirect 301 /audio/tmot_2005-06-16.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-06-16.mp3
+Redirect 301 /audio/tmot_2005-06-23.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-06-23.mp3
+Redirect 301 /audio/tmot_2005-07-07.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-07-07.mp3
+Redirect 301 /audio/tmot_2005-07-14.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-07-14.mp3
+Redirect 301 /audio/tmot_2005-07-21.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-07-21.mp3
+Redirect 301 /audio/tmot_2005-07-28.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-07-28.mp3
+Redirect 301 /audio/tmot_2005-08-04.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-08-04.mp3
+Redirect 301 /audio/tmot_2005-08-11.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-08-11.mp3
+Redirect 301 /audio/tmot_2005-08-17.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-08-17.mp3
+Redirect 301 /audio/tmot_2005-09-01.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-09-01.mp3
+Redirect 301 /audio/tmot_2005-09-15.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-09-15.mp3
+Redirect 301 /audio/tmot_2005-10-06.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-10-06.mp3
+Redirect 301 /audio/tmot_2005-10-13.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-10-13.mp3
+Redirect 301 /audio/tmot_2005-10-20.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-10-20.mp3
+Redirect 301 /audio/tmot_2005-11-03.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-11-03.mp3
+Redirect 301 /audio/tmot_2005-11-10.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-11-10.mp3
+Redirect 301 /audio/tmot_2005-11-17.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-11-17.mp3
+Redirect 301 /audio/tmot_2005-12-01.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-12-01.mp3
+Redirect 301 /audio/tmot_2005-12-08.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-12-08.mp3
+Redirect 301 /audio/tmot_2005-12-15.mp3 http://www.archive.org/download/TheMinistryofTruth2005/tmot_2005-12-15.mp3
+Redirect 301 /audio/tmot_2006-01-05.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-01-05.mp3
+Redirect 301 /audio/tmot_2006-01-12.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-01-12.mp3
+Redirect 301 /audio/tmot_2006-01-19.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-01-19.mp3
+Redirect 301 /audio/tmot_2006-02-02.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-02-02.mp3
+Redirect 301 /audio/tmot_2006-02-09.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-02-09.mp3
+Redirect 301 /audio/tmot_2006-02-16.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-02-16.mp3
+Redirect 301 /audio/tmot_2006-03-02.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-03-02.mp3
+Redirect 301 /audio/tmot_2006-03-09.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-03-09.mp3
+Redirect 301 /audio/tmot_2006-03-23.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-03-23.mp3
+Redirect 301 /audio/tmot_2006-04-06.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-04-06.mp3
+Redirect 301 /audio/tmot_2006-04-13.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-04-13.mp3
+Redirect 301 /audio/tmot_2006-04-20.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-04-20.mp3
+Redirect 301 /audio/tmot_2006-05-04.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-05-04.mp3
+Redirect 301 /audio/tmot_2006-05-11.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-05-11.mp3
+Redirect 301 /audio/tmot_2006-06-01.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-06-01.mp3
+Redirect 301 /audio/tmot_2006-06-08.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-06-08.mp3
+Redirect 301 /audio/tmot_2006-06-15.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-06-15.mp3
+Redirect 301 /audio/tmot_2006-06-22.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-06-22.mp3
+Redirect 301 /audio/tmot_2006-07-13.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-07-13.mp3
+Redirect 301 /audio/tmot_2006-07-20.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-07-20.mp3
+Redirect 301 /audio/tmot_2006-08-10.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-08-10.mp3
+Redirect 301 /audio/tmot_2006-08-31.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-08-31.mp3
+Redirect 301 /audio/tmot_2006-09-14.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-09-14.mp3
+Redirect 301 /audio/tmot_2006-10-04.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-10-04.mp3
+Redirect 301 /audio/tmot_2006-10-12.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-10-12.mp3
+Redirect 301 /audio/tmot_2006-10-21.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-10-21.mp3
+Redirect 301 /audio/tmot_2006-11-09.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-11-09.mp3
+Redirect 301 /audio/tmot_2006-11-16.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-11-16.mp3
+Redirect 301 /audio/tmot_2006-12-07.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-12-07.mp3
+Redirect 301 /audio/tmot_2006-12-14.mp3 http://www.archive.org/download/TheMinistryofTruth2006/tmot_2006-12-14.mp3
+Redirect 301 /audio/tmot_2007-01-04.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-01-04.mp3
+Redirect 301 /audio/tmot_2007-01-18.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-01-18.mp3
+Redirect 301 /audio/tmot_2007-02-01.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-02-01.mp3
+Redirect 301 /audio/tmot_2007-02-08.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-02-08.mp3
+Redirect 301 /audio/tmot_2007-02-22.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-02-22.mp3
+Redirect 301 /audio/tmot_2007-03-08.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-03-08.mp3
+Redirect 301 /audio/tmot_2007-03-15.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-03-15.mp3
+Redirect 301 /audio/tmot_2007-03-22.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-03-22.mp3
+Redirect 301 /audio/tmot_2007-03-29.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-03-29.mp3
+Redirect 301 /audio/tmot_2007-04-05.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-04-05.mp3
+Redirect 301 /audio/tmot_2007-04-12.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-04-12.mp3
+Redirect 301 /audio/tmot_2007-04-19.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-04-19.mp3
+Redirect 301 /audio/tmot_2007-04-26.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-04-26.mp3
+Redirect 301 /audio/tmot_2007-05-03.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-05-03.mp3
+Redirect 301 /audio/tmot_2007-05-10.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-05-10.mp3
+Redirect 301 /audio/tmot_2007-05-24.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-05-24.mp3
+Redirect 301 /audio/tmot_2007-05-31.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-05-31.mp3
+Redirect 301 /audio/tmot_2007-06-07.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-06-07.mp3
+Redirect 301 /audio/tmot_2007-06-14.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-06-14.mp3
+Redirect 301 /audio/tmot_2007-06-21.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-06-21.mp3
+Redirect 301 /audio/tmot_2007-08-16.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-08-16.mp3
+Redirect 301 /audio/tmot_2007-08-23.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-08-23.mp3
+Redirect 301 /audio/tmot_2007-08-30.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-08-30.mp3
+Redirect 301 /audio/tmot_2007-09-06.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-09-06.mp3
+Redirect 301 /audio/tmot_2007-09-13.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-09-13.mp3
+Redirect 301 /audio/tmot_2007-10-04.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-10-04.mp3
+Redirect 301 /audio/tmot_2007-10-11.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-10-11.mp3
+Redirect 301 /audio/tmot_2007-10-18.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-10-18.mp3
+Redirect 301 /audio/tmot_2007-10-25.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-10-25.mp3
+Redirect 301 /audio/tmot_2007-11-08.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-11-08.mp3
+Redirect 301 /audio/tmot_2007-11-15.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-11-15.mp3
+Redirect 301 /audio/tmot_2007-11-22.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-11-22.mp3
+Redirect 301 /audio/tmot_2007-12-06.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-12-06.mp3
+Redirect 301 /audio/tmot_2007-12-13.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-12-13.mp3
+Redirect 301 /audio/tmot_2007-12-20.mp3 http://www.archive.org/download/TheMinistryofTruth2007/tmot_2007-12-20.mp3
+Redirect 301 /audio/tmot_2008-01-03.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-01-03.mp3
+Redirect 301 /audio/tmot_2008-01-10.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-01-10.mp3
+Redirect 301 /audio/tmot_2008-01-17.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-01-17.mp3
+Redirect 301 /audio/tmot_2008-01-24.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-01-24.mp3
+Redirect 301 /audio/tmot_2008-01-31.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-01-31.mp3
+Redirect 301 /audio/tmot_2008-02-07.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-02-07.mp3
+Redirect 301 /audio/tmot_2008-02-28.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-02-28.mp3
+Redirect 301 /audio/tmot_2008-03-06.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-03-06.mp3
+Redirect 301 /audio/tmot_2008-03-27.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-03-27.mp3
+Redirect 301 /audio/tmot_2008-04-03.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-04-03.mp3
+Redirect 301 /audio/tmot_2008-04-10.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-04-10.mp3
+Redirect 301 /audio/tmot_2008-04-17.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-04-17.mp3
+Redirect 301 /audio/tmot_2008-04-24.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-04-24.mp3
+Redirect 301 /audio/tmot_2008-05-08.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-05-08.mp3
+Redirect 301 /audio/tmot_2008-05-15.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-05-15.mp3
+Redirect 301 /audio/tmot_2008-05-22.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-05-22.mp3
+Redirect 301 /audio/tmot_2008-05-29.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-05-29.mp3
+Redirect 301 /audio/tmot_2008-06-19.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-06-19.mp3
+Redirect 301 /audio/tmot_2008-06-26.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-06-26.mp3
+Redirect 301 /audio/tmot_2008-07-03.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-07-03.mp3
+Redirect 301 /audio/tmot_2008-07-17.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-07-17.mp3
+Redirect 301 /audio/tmot_2008-07-24.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-07-24.mp3
+Redirect 301 /audio/tmot_2008-07-31.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-07-31.mp3
+Redirect 301 /audio/tmot_2008-08-14.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-08-14.mp3
+Redirect 301 /audio/tmot_2008-08-21.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-08-21.mp3
+Redirect 301 /audio/tmot_2008-08-28.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-08-28.mp3
+Redirect 301 /audio/tmot_2008-09-04.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-09-04.mp3
+Redirect 301 /audio/tmot_2008-09-11.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-09-11.mp3
+Redirect 301 /audio/tmot_2008-09-18.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-09-18.mp3
+Redirect 301 /audio/tmot_2008-09-25.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-09-25.mp3
+Redirect 301 /audio/tmot_2008-10-02.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-10-02.mp3
+Redirect 301 /audio/tmot_2008-10-09.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-10-09.mp3
+Redirect 301 /audio/tmot_2008-10-23.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-10-23.mp3
+Redirect 301 /audio/tmot_2008-10-30.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-10-30.mp3
+Redirect 301 /audio/tmot_2008-11-06.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-11-06.mp3
+Redirect 301 /audio/tmot_2008-11-13.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-11-13.mp3
+Redirect 301 /audio/tmot_2008-11-20.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-11-20.mp3
+Redirect 301 /audio/tmot_2008-11-27.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-11-27.mp3
+Redirect 301 /audio/tmot_2008-12-04.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-12-04.mp3
+Redirect 301 /audio/tmot_2008-12-18.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-12-18.mp3
+Redirect 301 /audio/tmot_2008-12-25.mp3 http://www.archive.org/download/TheMinistryofTruth2008/tmot_2008-12-25.mp3
+# RewriteRule radio new-index3.php?id=8
+Redirect 301 /article/150 /posts/2006-07-13-ministry-truth-interview-elvin-castellon-water-management-nicaragua.html
+Redirect 301 /article/151 /posts/2006-06-22-ministry-truth-monologue-future-internet.html
+Redirect 301 /article/152 /posts/2006-06-15-ministry-truth-steve-macek-black-panther-party-chicago-journalism-review.html
+Redirect 301 /article/153 /posts/2006-06-08-ministry-truth-steve-macek-chicago-journalism-review.html
+Redirect 301 /article/154 /posts/2006-06-01-ministry-truth-victor-pickard-rise-fall-late1940s-progressive-communications-policy.html
+Redirect 301 /article/155 /posts/2006-05-11-ministry-truth-interview-hate-crimes-seth-peterson-tommy-stovall.html
+Redirect 301 /article/156 /posts/2006-05-04-ministry-truth-part-two-two-voices-protest-chicago-march-18-2006.html
+Redirect 301 /article/157 /posts/2006-04-20-ministry-truth-part-one-two-voices-protest-chicago-march-18-2006.html
+Redirect 301 /article/158 /posts/2006-04-13-ministry-truth-affidavit-mohammad-saleh.html
+Redirect 301 /article/159 /posts/2006-04-06-ministry-truth-mcdonalds-campaign-coalition-immokalee-workers.html
+Redirect 301 /article/160 /posts/2006-03-23-ministry-truth-chris-geovanis-followup-march-18-2006.html
+Redirect 301 /article/161 /posts/2006-03-09-ministry-truth-chris-geovanis-march-18-organizing-indymedia.html
+Redirect 301 /article/162 /posts/2006-03-02-ministry-truth-end-blogosphere.html
+Redirect 301 /article/136 /posts/2006-02-26-end-blogosphere.html
+Redirect 301 /article/163 /posts/2006-02-16-ministry-truth-interview-rita-sand-net-neutrality.html
+Redirect 301 /article/164 /posts/2006-02-09-ministry-truth-dave-zirin-super-bowl-city-brink.html
+Redirect 301 /article/165 /posts/2006-02-02-ministry-truth-john-nichols-university-chicago.html
+Redirect 301 /article/166 /posts/2006-01-19-ministry-truth-monologue-venezuelan-oil-chicago-politics.html
+Redirect 301 /article/167 /posts/2006-01-12-ministry-truth-sudoku-activism.html
+Redirect 301 /article/168 /posts/2006-01-05-ministry-truth-stupidity-intelligent-design.html
+Redirect 301 /article/169 /posts/2005-12-15-ministry-truth-interview-bob-mcchesney-tragedy-farce.html
+Redirect 301 /article/170 /posts/2005-12-08-ministry-truth-robin-hahnel-2005-chicago-school-participatory-economics.html
+Redirect 301 /article/171 /posts/2005-12-01-ministry-truth-keep-cards-overlap-poker-political-activism.html
+Redirect 301 /article/129 /posts/2005-11-29-keep-cards-overlap-poker-political-activism.html
+Redirect 301 /article/172 /posts/2005-11-17-ministry-truth-oped-why-deny-chicago-licenses.html
+Redirect 301 /article/126 /posts/2005-11-14-why-deny-chicago-licenses.html
+Redirect 301 /article/173 /posts/2005-11-10-ministry-truth-monologue-fcc-license-challenge-against-tv-stations.html
+Redirect 301 /article/174 /posts/2005-11-03-ministry-truth-interview-kevin-pina-haiti-untold-story.html
+Redirect 301 /article/175 /posts/2005-10-20-ministry-truth-lionel-jeanbaptiste-international-tribunal-haiti.html
+Redirect 301 /article/176 /posts/2005-10-13-ministry-truth-eric-patton-winning.html
+Redirect 301 /article/177 /posts/2005-10-06-ministry-truth-michael-albert-excerpt-participatory-economics.html
+Redirect 301 /article/122 /posts/2005-09-28-lionel-jean-baptist-exit-cafe-report-haiti-inquiry-indictments.html
+Redirect 301 /article/178 /posts/2005-09-15-ministry-truth-bob-harris-bush-katrina-many-outrages-little-time.html
+Redirect 301 /article/179 /posts/2005-09-01-ministry-truth-interview-dave-zirin-whats-name-fool.html
+Redirect 301 /article/108 /posts/2005-09-02-community-internet-under-attack.html
+Redirect 301 /article/180 /posts/2005-08-18-ministry-truth-report-stadium-developers-threatening-historic-slavetrade-site-richmond-va.html
+Redirect 301 /article/181 /posts/2005-08-11-ministry-truth-possible-future-video-internet.html
+Redirect 301 /article/182 /posts/2005-08-04-ministry-truth-iww-labor-organizing-new-york-city-starbucks.html
+Redirect 301 /article/183 /posts/2005-07-28-ministry-truth-curie-youth-radio-documentary-teen-pregnancy.html
+Redirect 301 /article/184 /posts/2005-07-21-ministry-truth-judas-goat-quarterly-end-world-news.html
+Redirect 301 /article/185 /posts/2005-07-14-ministry-truth-case-disappearing-world-tribunal-iraq.html
+Redirect 301 /article/186 /posts/2005-07-07-ministry-truth-ironies-kelo-v-new-london-connecticut.html
+Redirect 301 /article/92 /posts/2005-06-30-audio-2005-z-media-institute.html
+Redirect 301 /article/187 /posts/2005-06-23-ministry-truth-excerpt-noam-chomsky-woods-hole.html
+Redirect 301 /article/188 /posts/2005-06-16-ministry-truth-pilot-episode-activ8-radio.html
+Redirect 301 /article/189 /posts/2005-06-02-ministry-truth-ben-scott-urbana.html
+Redirect 301 /article/87 /posts/2005-06-01-illinois-coalition-wins-statelevel-telecom-victory.html
+Redirect 301 /article/190 /posts/2005-05-26-ministry-truth-seymour-hersh-urbana.html
+Redirect 301 /article/191 /posts/2005-05-05-ministry-truth-political-economy-pledge-drives.html
+Redirect 301 /article/192 /posts/2005-04-28-ministry-truth-excerpt-presentation-independent-journalist-dahr-jamahl.html
+Redirect 301 /article/193 /posts/2005-04-21-ministry-truth-james-howard-kunstler-long-emergency.html
+Redirect 301 /article/83 /posts/2005-04-17-illinois-senate-approves-rewrite-states-telecom-act.html
+Redirect 301 /article/194 /posts/2005-04-14-ministry-truth-tl246n-activism.html
+Redirect 301 /article/195 /posts/2005-03-31-ministry-truth-chicago-protest-against-imperialism-iraq-capsule-history.html
+Redirect 301 /article/196 /posts/2005-03-24-ministry-truth-conversation-andy-thayer-march-19-2005.html
+Redirect 301 /article/197 /posts/2005-03-17-ministry-truth-interview-excerpt-rainforest-action-network.html
+Redirect 301 /article/198 /posts/2005-03-10-ministry-truth-chris-geovanis-civil-liberties-battle-brings-war-home.html
+Redirect 301 /article/63 /posts/2005-03-09-illinois-citizens-fight-newly-introduced-proindustry-state-telecom-bill.html
+Redirect 301 /article/199 /posts/2005-03-03-ministry-truth-interview-michael-maranda-il-telecom-act.html
+Redirect 301 /article/112 /posts/2005-03-01-illinois-telecommunications-act-future-internet-illinois-interview-organizer-michael-maranda.html
+Redirect 301 /article/200 /posts/2005-02-23-ministry-truth-charlotte-fishman-whats-law.html
+Redirect 301 /article/201 /posts/2005-02-17-ministry-truth-saul-landau-imperial-portrait.html
+Redirect 301 /article/202 /posts/2005-02-10-ministry-truth-ward-churchill.html
+Redirect 301 /article/203 /posts/2005-02-03-ministry-truth-stanley-milgrams-other-three.html
+Redirect 301 /article/59 /posts/2005-02-01-media-odyssey.html
+Redirect 301 /article/118 /posts/2005-02-01-year-tv-funding-struggles-comes-end.html
+Redirect 301 /article/204 /posts/2005-01-26-ministry-truth-james-loewen-famous-everywhere-home.html
+Redirect 301 /article/205 /posts/2005-01-20-ministry-truth-bunny-riedel-why-comcast.html
+Redirect 301 /article/206 /posts/2005-01-13-ministry-truth-dave-zirig-fight-night-nba.html
+Redirect 301 /article/207 /posts/2005-01-06-ministry-truth-wto-derailed.html
+Redirect 301 /article/208 /posts/2004-12-23-ministry-truth-game-parecon.html
+Redirect 301 /article/209 /posts/2004-12-16-ministry-truth-essay-mel-giles-michael-moore-website.html
+Redirect 301 /article/210 /posts/2004-12-09-ministry-truth-protect-vote.html
+Redirect 301 /article/211 /posts/2004-12-02-ministry-truth-love-im-neoliberal.html
+Redirect 301 /article/105 /posts/2004-12-01-chicago-colo-new-internet-opportunity-chicago.html
+Redirect 301 /article/212 /posts/2004-11-18-ministry-truth-power-protest.html
+Redirect 301 /article/213 /posts/2004-11-11-ministry-truth-ten-reasons-move-canada-four-years.html
+Redirect 301 /article/214 /posts/2004-11-04-ministry-truth-nab-national-association-bastards.html
+Redirect 301 /article/106 /posts/2004-11-01-review-dick-man-president-john-nichols.html
+Redirect 301 /article/215 /posts/2004-10-28-ministry-truth-out-apathy.html
+Redirect 301 /article/216 /posts/2004-10-21-ministry-truth-tale-two-linguists.html
+Redirect 301 /article/217 /posts/2004-10-14-ministry-truth-day-life-joe-republican-optimism-uncertainty.html
+Redirect 301 /article/218 /posts/2004-10-07-ministry-truth-two-sides-jail-prisons.html
+Redirect 301 /article/103 /posts/2004-10-01-big-media-bodyslam-another-response-chicago-tribune.html
+Redirect 301 /article/116 /posts/2004-10-01-chicago-cable-stories-good-news-bad-news.html
+Redirect 301 /article/101 /posts/2004-09-01-chicago-tonight-chicago-too-white-interview-study-chicago-public-television.html
+Redirect 301 /article/100 /posts/2004-08-01-cooking-now-updates-some-media-activist-efforts.html
+Redirect 301 /article/104 /posts/2004-07-01-rapid-city-memories-chicago-media-activists-embark-roadtrip-south-dakota-face-fcc.html
+Redirect 301 /article/115 /posts/2004-06-01-public-access-crossroads-tvs-funding-crisis-comes-head-better-worse.html
+Redirect 301 /article/102 /posts/2004-05-01-everywhere-global-justice-multimedia-presentation-featured-citywide-arts-festival-launch.html
+Redirect 301 /article/111 /posts/2004-05-01-youre-air-ahead-please-how-own-radio-broadcast-how-too.html
+Redirect 301 /article/110 /posts/2004-04-01-how-now-wow-cow-chicago-activists-use-clever-media-tool-outreach-success.html
+Redirect 301 /article/114 /posts/2004-03-01-great-radio-hope-tale-two-radio-opportunities.html
+Redirect 301 /article/61 /posts/2004-02-01-struggling-soul-wttw-public-broadcasting-private.html
+Redirect 301 /article/53 /posts/2004-01-01-big-media-response-chicago-tribune.html
+Redirect 301 /article/117 /posts/2004-01-01-big-brother-grocery-store-rfid-fight-mccormick-place-activism.html
+Redirect 301 /article/31 /posts/2003-10-15-how-digital-millennium-copyright-act-affects.html
+Redirect 301 /article/32 /posts/2003-10-15-extraspecial-rant-bugbear-b.html
+Redirect 301 /article/39 /posts/2003-10-15-entropy-lyrics-set-tune-yesterday-beatles.html
+Redirect 301 /article/52 /posts/2003-09-05-sept-5-rally-support-marine-stephen-funk.html
+Redirect 301 /article/51 /posts/2003-09-04-chicago-activists-rally-tribune-plaza-against-fcc.html
+Redirect 301 /article/50 /posts/2003-09-01-congress-hotel-workers-escalate-strike-civil-disobedience-arrests.html
+Redirect 301 /article/49 /posts/2003-08-22-fcc-votes-deregulate-media-laws.html
+Redirect 301 /article/48 /posts/2003-08-16-reflections-chicago-air-water-show-protest-august-16-2003.html
+Redirect 301 /article/47 /posts/2003-08-08-big-media-public-right-concerned.html
+Redirect 301 /article/46 /posts/2003-08-06-hyde-park-holds-hiroshima-memorial-nuclear-energy-statue.html
+Redirect 301 /article/45 /posts/2003-07-05-media-celebration-success-say-organizers.html
+Redirect 301 /article/44 /posts/2003-07-04-why-independent-media-guide.html
+Redirect 301 /article/43 /posts/2003-05-23-media-deregulation-ignored-published-chicago-maroon-may-23-2003.html
+Redirect 301 /article/109 /posts/2003-05-15-unpublished-review-parecon-life-after-capitalism.html
+Redirect 301 /article/42 /posts/2003-04-02-report-thoughts-media-activist-midwest-forum-media-ownership-april-2-2003.html
+Redirect 301 /article/41 /posts/2003-03-21-report-m21-rally-marchdowntown-chicago.html
+Redirect 301 /article/40 /posts/2003-03-20-dispatch-slogans-massive-m20-protest-downtown-chicago.html
+Redirect 301 /article/38 /posts/2003-01-14-name-lula.html
+Redirect 301 /article/29 /posts/2003-01-13-computers-illusion-randomness.html
+Redirect 301 /article/30 /posts/2003-01-13-democracy-darkness-skies.html
+Redirect 301 /article/60 /posts/2002-12-08-mitchell-szczepanczyks-subanagram-generator.html
+Redirect 301 /article/37 /posts/2002-11-09-notes-open-source-revolution-economics.html
+Redirect 301 /article/36 /posts/2002-10-18-brain-dump-chicago-media-watch-pac-downtown-chicago-halloween-walking-tour.html
+Redirect 301 /article/28 /posts/2002-09-17-review-greg-palasts-best-democracy-money-buy.html
+Redirect 301 /article/34 /posts/2002-09-16-fancy-mine-9162002-visit-university-chicago-economics-department-teachin-down-street.html
+Redirect 301 /article/20 /posts/2002-07-26-why-blog.html
+Redirect 301 /article/35 /posts/2002-07-24-report-aaron-mcgruder-scoop-jackson-chopin-theater.html
+Redirect 301 /article/33 /posts/2002-05-02-fancy-mine-522002-only-12-cimc-newswire-original-content.html
+Redirect 301 /article/12 /posts/2002-04-23-mistake-base-gateway-arch.html
+Redirect 301 /article/26 /posts/2002-04-07-s29-march-downtown-chicago.html
+Redirect 301 /article/27 /posts/2002-04-07-minus-five.html
+Redirect 301 /article/11 /posts/2002-03-17-bite-tongues.html
+Redirect 301 /article/25 /posts/2001-09-25-report-9222001-daley-plaza-candlelight-vigil-peace.html
+Redirect 301 /article/24 /posts/2001-08-19-protest-air-water-show-account.html
+Redirect 301 /article/23 /posts/2001-07-02-republican-physicist-vern-ehlers-national-missile-defense-essay.html
+Redirect 301 /article/22 /posts/2001-05-24-essay-holiness-pope-john-paul-ii.html
+Redirect 301 /article/21 /posts/2001-05-03-may-day-afternoon-chicago.html
+Redirect 301 /article/10 /posts/2001-02-25-always-ruin-things.html
+Redirect 301 /article/9 /posts/2000-12-10-meanwhile.html
+Redirect 301 /article/6 /posts/2000-07-22-think.html
+Redirect 301 /article/14 /posts/2000-04-26-quote-fest-part-two.html
+Redirect 301 /article/17 /posts/2000-02-13-szczicago-manual-style.html
+Redirect 301 /article/5 /posts/2000-01-05-circle-strife.html
+Redirect 301 /article/13 /posts/1999-09-27-quote-fest-part-one.html
+Redirect 301 /article/8 /posts/1999-09-07-secret-microsofts-success.html
+Redirect 301 /article/133 /posts/1999-09-01-1999-kansas-board-education-ruling.html
+Redirect 301 /article/4 /posts/1999-08-27-stanley-cup-history-abuse-neglect.html
+Redirect 301 /article/18 /posts/1999-08-22-used-acfweb-page.html
+Redirect 301 /article/1 /posts/1999-08-17-forget-agreeing-numerical-name-next-decade.html
+Redirect 301 /article/2 /posts/1999-08-08-disposing-computers-becoming-global-concern.html
+Redirect 301 /article/3 /posts/1999-07-14-bs-science-fiction-literally.html
+Redirect 301 /article/15 /posts/1998-10-21-africanamerican-language.html
+Redirect 301 /article/7 /posts/1998-08-18-queen.html
+Redirect 301 /article/19 /posts/1998-08-17-academic-quiz-competitions-career.html
+Redirect 301 /article/16 /posts/1996-04-01-hippopotomonstrosesquipedalians.html
+Redirect 301 /article/219 /posts/2006-12-18-heard-malachi-campaign-demonstrates-cold.html
+Redirect 301 /article/220 /posts/2005-02-26-efforts-succeed-now-delay-bill-kill-illinois-community-internet.html
+Redirect 301 /article/221 /posts/2006-07-20-ministry-truth-two-segments-israeli-attack-lebanon.html
+Redirect 301 /article/222 /posts/2006-08-10-ministry-truth-interview-thomas-good-new-students-democratic-society.html
+Redirect 301 /article/223 /posts/2006-08-31-ministry-truth-presentation-bob-harris-prisoner-trebekistan-2006-game-show-congress.html
+Redirect 301 /article/224 /posts/2006-09-14-ministry-truth-excerpt-keynote-address-michael-albert-2006-sds-conference.html
+Redirect 301 /article/225 /posts/2006-10-04-ministry-truth-interview-sam-kosha-persian-gay-lesbian-organization.html
+Redirect 301 /article/226 /posts/2006-10-12-ministry-truth-interview-jeff-halper-israeli-committee-against-house-demolitions.html
+Redirect 301 /article/227 /posts/2006-10-21-ministry-truth-interview-candidate-bill-dock-walls-2007-chicago-mayoral-race.html
+Redirect 301 /article/228 /posts/2006-11-09-ministry-truth-robert-jensen-heart-whiteness.html
+Redirect 301 /article/229 /posts/2006-11-16-ministry-truth-residents-journal-beauty-turner-speaks-chicago-media.html
+Redirect 301 /article/230 /posts/2006-12-07-ministry-truth-interview-ben-joravsky-chicago-tax-increment-financing-districts-part-1-2.html
+Redirect 301 /article/231 /posts/2006-12-14-ministry-truth-interview-ben-joravsky-chicago-tax-increment-financing-districts-part-2-2.html
+Redirect 301 /article/232 /posts/2007-01-04-ministry-truth-interview-candidate-dorothy-brown-2007-chicago-mayoral-race.html
+Redirect 301 /article/233 /posts/2007-01-18-ministry-truth-interview-linda-wasson-community-radio-middle-east.html
+Redirect 301 /article/234 /posts/2007-01-31-2007-national-conference-media-reform-chicagoan-reports-back.html
+Redirect 301 /article/235 /posts/2007-02-01-ministry-truth-interview-2007-maurice-carney-friends-congo.html
+Redirect 301 /article/236 /posts/2007-02-08-ministry-truth-open-letter-tribune-company.html
+Redirect 301 /article/237 /posts/2007-02-22-ministry-truth-presentation-open-university-left-participatory-economics.html
+Redirect 301 /article/238 /posts/2007-03-08-ministry-truth-interview-eric-klinenberg-fighting-air-part-1-2.html
+Redirect 301 /article/239 /posts/2007-03-15-ministry-truth-interview-eric-klinenberg-fighting-air-part-2-2.html
+Redirect 301 /article/240 /posts/2007-03-22-ministry-truth-radio-documentary-michigan-avenue-antiwar-protest-march-20-2007.html
+Redirect 301 /article/241 /posts/2007-03-27-thoughts-march-20-antiwar-march-chicagos-michigan-avenue.html
+Redirect 301 /article/242 /posts/2007-03-29-ministry-truth-interview-nina-klooster-marjorie-fujara-code-pink.html
+Redirect 301 /article/243 /posts/2007-04-03-chicagoans-compete-inaugural-transatlantic-quiz.html
+Redirect 301 /article/244 /posts/2007-04-02-review-silence-malachi-ritscher.html
+Redirect 301 /article/245 /posts/2007-04-05-ministry-truth-interview-maura-stephens-humanitarian-efforts-iraq.html
+Redirect 301 /article/246 /posts/2007-04-15-ruling-expected-chicago-activists-freedom-speech-appeal.html
+Redirect 301 /article/247 /posts/2007-04-12-ministry-truth-interview-jan-lisa-huttner-women-film-film-criticism.html
+Redirect 301 /article/248 /posts/2007-04-19-ministry-truth-interview-jamie-kalven-view-ground-part-1-2.html
+Redirect 301 /article/249 /posts/2007-04-26-ministry-truth-interview-jamie-kalven-view-ground-part-2-2.html
+Redirect 301 /article/250 /posts/2007-05-03-ministry-truth-interview-rick-ray-10-questions-dalai-lama.html
+Redirect 301 /article/251 /posts/2007-05-08-cable-regulation-chicago-media-action-response-chicago-tribune.html
+Redirect 301 /article/252 /posts/2007-05-17-ministry-truth-interview-michael-maranda-chicago-digital-access-alliance.html
+Redirect 301 /article/253 /posts/2007-05-24-ministry-truth-interview-rick-kaempfer-author-everance.html
+Redirect 301 /article/254 /posts/2007-05-31-ministry-truth-presentation-robert-jensen-academic-freedom-part-1-2.html
+Redirect 301 /article/255 /posts/2007-06-07-ministry-truth-presentation-robert-jensen-academic-freedom-part-2-2.html
+Redirect 301 /article/256 /posts/2007-06-14-ministry-truth-interview-davis-maciyalla-josh-thomas.html
+Redirect 301 /article/257 /posts/2007-06-21-ministry-truth-interview-michael-albert-remembering-tomorrow.html
+Redirect 301 /article/258 /posts/2007-08-16-ministry-truth-interview-rozalinda-borcila-afghan-refugees-norway.html
+Redirect 301 /article/259 /posts/2007-10-04-ministry-truth-interview-nikolai-alexeyev.html
+Redirect 301 /article/260 /posts/2007-11-09-forthcoming-dtv-tsunami.html
+Redirect 301 /article/261 /posts/2007-08-23-ministry-truth-monologue-update-2005-chicago-tv-license-challenge.html
+Redirect 301 /article/262 /posts/2007-08-30-ministry-truth-interview-international-tribunal-hurricanes-katrina-rita-part-1-2.html
+Redirect 301 /article/263 /posts/2007-09-06-ministry-truth-interview-international-tribunal-hurricanes-katrina-rita-part-2-2.html
+Redirect 301 /article/264 /posts/2007-09-13-ministry-truth-monologue-2007-fcc-chicago-media-ownership-hearing.html
+Redirect 301 /article/265 /posts/2007-10-11-ministry-truth-interview-maura-stephens-iraq-burma.html
+Redirect 301 /article/266 /posts/2007-12-13-ministry-truth-interview-cynthia-mckinney.html
+Redirect 301 /article/267 /posts/2007-10-18-ministry-truth-interview-walter-benn-michaels-trouble-diversity.html
+Redirect 301 /article/268 /posts/2007-10-25-ministry-truth-interview-steven-levin-corporate-takeover-illinois-nursing-homes.html
+Redirect 301 /article/269 /posts/2007-12-20-ministry-truth-excerpts-2007-chicago-media-action-holiday-singalong.html
+Redirect 301 /article/270 /posts/2008-01-03-ministry-truth-interview-amysue-mertens.html
+Redirect 301 /article/271 /posts/2008-01-10-ministry-truth-interview-dave-zirin-welcome-terrordome.html
+Redirect 301 /article/272 /posts/2008-01-17-ministry-truth-interview-danny-schechter-part-1-2.html
+Redirect 301 /article/273 /posts/2007-11-08-ministry-truth-presentation-bob-mcchesney.html
+Redirect 301 /article/274 /posts/2007-12-06-ministry-truth-forthcoming-dtv-tsunami.html
+Redirect 301 /article/275 /posts/2007-11-15-ministry-truth-presentation-john-anderson-godcasting-march.html
+Redirect 301 /article/276 /posts/2007-11-22-ministry-truth-presentation-lisa-brooten-elephants-fight-media-reform-efforts-southeast-asia.html
+Redirect 301 /article/277 /posts/2008-03-01-chicagoans-compete-2nd-annual-transatlantic-quiz-march-15.html
+Redirect 301 /article/278 /posts/2007-07-05-chicago-activist-discovers-hispanic-youth-harshly-treated-indiana-detention-center.html
+Redirect 301 /article/279 /posts/2007-09-20-appearance-wants-millionaire.html
+Redirect 301 /article/280 /posts/2008-02-13-dtv-tsunami-approaches.html
+Redirect 301 /article/281 /posts/2008-01-24-ministry-truth-interview-danny-schechter-part-2-2.html
+Redirect 301 /article/282 /posts/2008-02-07-ministry-truth-interview-harold-feld-700-mhz-auction.html
+Redirect 301 /article/283 /posts/2008-02-28-ministry-truth-presentation-inger-stole-1930s-advertising-reform.html
+Redirect 301 /article/284 /posts/2008-03-06-ministry-truth-interview-2008-maurice-carney-friends-congo.html
+Redirect 301 /article/285 /posts/2008-03-27-ministry-truth-excerpts-chicago-indymedia-march-20-2008-webcast-part-1-3.html
+Redirect 301 /article/286 /posts/2008-04-03-ministry-truth-excerpts-chicago-indymedia-march-20-2008-webcast-part-2-3.html
+Redirect 301 /article/287 /posts/2007-04-06-activists-travail-triumph-over-tribune.html
+Redirect 301 /article/288 /posts/2008-04-11-dtv-tsunami-arrived.html
+Redirect 301 /article/289 /posts/2008-04-10-ministry-truth-excerpts-chicago-indymedia-march-20-2008-webcast-part-3-3.html
+Redirect 301 /article/290 /posts/2008-04-17-ministry-truth-interview-jeff-leys-voices-creative-nonviolence.html
+Redirect 301 /article/291 /posts/2008-04-24-ministry-truth-interview-john-k-wilson-author-barack-obama-improbable-quest.html
+Redirect 301 /article/292 /posts/2008-05-08-ministry-truth-excerpts-ilcpj-2008-final-panel-james-thindwa-maria-gamboa.html
+Redirect 301 /article/293 /posts/2008-05-15-ministry-truth-excerpts-ilcpj-2008-final-panel-ra-chaka-mitchell-szczepanczyk.html
+Redirect 301 /article/294 /posts/2008-05-22-ministry-truth-interview-rebekah-levin-jewish-voice-peace-chicago.html
+Redirect 301 /article/295 /posts/2008-05-29-ministry-truth-trenches-segment-featuring-dave-kraft-neis-nuclear-waste-dump-visit.html
+Redirect 301 /article/296 /posts/2008-06-19-letter-week-time-out-chicago-magazine.html
+Redirect 301 /article/297 /posts/2008-06-29-montesi-maneuver-way-think-corporations-markets-participatory-economics-environment.html
+Redirect 301 /article/298 /posts/2008-06-26-ministry-truth-interview-carrie-biggsadams-dtv-conversion.html
+Redirect 301 /article/299 /posts/2008-07-03-ministry-truth-audio-montesi-maneuver-presentation-st-louis.html
+Redirect 301 /article/300 /posts/2008-07-17-ministry-truth-monologue-atts-violations-recent-illinois-cable-laws.html
+Redirect 301 /article/301 /posts/2008-07-25-process-trying-out-wants-millionaire.html
+Redirect 301 /article/302 /posts/2008-06-19-ministry-truth-interview-julia-field-chicagoarea-codepink-john-mccain.html
+Redirect 301 /article/303 /posts/2008-07-24-ministry-truth-interview-anne-elizabeth-moore-author-unmarketable-part-1-2.html
+Redirect 301 /article/304 /posts/2008-07-31-ministry-truth-interview-anne-elizabeth-moore-author-unmarketable-part-2-2.html
+Redirect 301 /article/305 /posts/2008-08-18-peace-activists-literally-fenced-2008-chicago-air-water-show.html
+Redirect 301 /article/306 /posts/2008-08-14-ministry-truth-audio-aug-2-2008-war-iran-rally-chicago.html
+Redirect 301 /article/307 /posts/2008-08-21-ministry-truth-audio-continued-aug-2-2008-war-iran-rally-chicago.html
+Redirect 301 /article/308 /posts/2008-08-28-ministry-truth-interview-soo-ji-min-illinois-caucus-adolescent-health.html
+Redirect 301 /article/309 /posts/2008-09-04-ministry-truth-report-monologue-free-speech-zone-2008-chicago-air-water-show.html
+Redirect 301 /article/310 /posts/2008-09-11-ministry-truth-interview-anne-elizabeth-moore-st-paul-2008-rnc-crackdown-part-1-2.html
+Redirect 301 /article/311 /posts/2008-09-18-ministry-truth-interview-anne-elizabeth-moore-st-paul-2008-rnc-crackdown-part-2-2.html
+Redirect 301 /article/312 /posts/2008-09-25-ministry-truth-interview-wayne-besen-james-dobson-exgay-movement.html
+Redirect 301 /article/313 /posts/2008-10-14-print-adaptation-montesi-maneuver-way-think-corporations-markets-participatory-economics-environment.html
+Redirect 301 /article/334 /posts/2009-02-19-ministry-truth-interview-anne-elizabeth-moore-matt-joynt-unlympic-organizing-committee.html
+Redirect 301 /article/335 /posts/2009-03-05-ministry-truth-interview-reese-ehrlich-dateline-havana.html
+Redirect 301 /article/336 /posts/2009-03-12-ministry-truth-monologue-tv-local-community-radio-act.html
+Redirect 301 /article/333 /posts/2009-02-12-ministry-truth-interview-ray-parrish-vietnam-veterans-against-war.html
+Redirect 301 /article/314 /posts/2008-10-25-tv-funding-future-faces-key-ordinance-vote.html
+Redirect 301 /article/315 /posts/2008-11-07-tv-ordinance-doesnt-pass-amid-recessed-city-committee-hearing.html
+Redirect 301 /article/316 /posts/2008-11-20-ministry-truth-excerpts-presentation-dtv-transition-2008-flowtv-conference.html
+Redirect 301 /article/317 /posts/2008-10-09-ministry-truth-interview-bruce-gagnon-militarization-space.html
+Redirect 301 /article/318 /posts/2008-10-23-ministry-truth-interview-jane-sex-workers-outreach-project.html
+Redirect 301 /article/319 /posts/2008-11-06-ministry-truth-interview-dave-zirin-peoples-history-sports-united-states.html
+Redirect 301 /article/320 /posts/2008-10-30-ministry-truth-interview-kathy-cummings-2008-candidate-senate.html
+Redirect 301 /article/321 /posts/2008-11-13-ministry-truth-interview-alison-weir-americans-knew-media-coverage-israel-palestine.html
+Redirect 301 /article/322 /posts/2008-10-02-ministry-truth-interview-lily-cavanagh.html
+Redirect 301 /article/323 /posts/2008-11-27-ministry-truth-interview-robert-mcchesney-political-economy-media-part-1-2.html
+Redirect 301 /article/324 /posts/2008-12-04-ministry-truth-interview-robert-mcchesney-political-economy-media-part-2-2.html
+Redirect 301 /article/325 /posts/2008-12-18-ministry-truth-interview-mediageek-tribune-bankruptcy.html
+Redirect 301 /article/326 /posts/2008-12-25-ministry-truth-november-decision-2008-excerpt-rhymefest-zarakyah-ahmadiel.html
+Redirect 301 /article/327 /posts/2009-01-01-ministry-truth-november-decision-2008-excerpt-bbc-radio-devon-commentator-alan-thomas.html
+Redirect 301 /article/328 /posts/2009-01-08-ministry-truth-interview-neal-resnikoff-senn-high-school-chicago-education-arne-duncan.html
+Redirect 301 /article/329 /posts/2009-01-15-ministry-truth-interview-ghada-talhami-gaza-israel-chicago.html
+Redirect 301 /article/330 /posts/2009-01-22-ministry-truth-excerpts-cape-hope-torture-chicago-gitmo-interview-durbingaza-protest.html
+Redirect 301 /article/331 /posts/2009-01-29-ministry-truth-interview-leslie-fiedler-radios-populares.html
+Redirect 301 /article/332 /posts/2009-02-05-ministry-truth-interview-jessica-gonzalez-hate-speech-media.html
+Redirect 301 /article/337 /posts/2009-03-16-despite-tvs-objections-chicago-finance-committee-passes-revised-tv-ordinance.html
+Redirect 301 /article/338 /posts/2009-02-24-video-2008-colombia-sugarcane-workers-strike-chicago-independent-television.html
+Redirect 301 /article/339 /posts/2009-02-24-video-chicago-protests-against-defense-marriage-act.html
+Redirect 301 /article/340 /posts/2009-03-19-ministry-truth-story-behind-story-march-14-2009-chicago-actions-peace-immigrant-rights.html
+Redirect 301 /article/341 /posts/2009-03-26-ministry-truth-interview-jitu-brown-kenwood-oakland-community-organization-olympics-community-benefits-agreement.html
+Redirect 301 /article/342 /posts/2009-04-02-ministry-truth-interview-jeff-frank-chicagos-antiprotester-disorderly-conduct-ordinance.html
+Redirect 301 /article/343 /posts/2009-04-25-markets-corporations-parecon-presentation-albany-park-north-park-mayfair-neighbors-peace-justice.html
+Redirect 301 /article/344 /posts/2009-04-23-ministry-truth-presentation-paula-bradshaw-rich-whitney-automobile.html
+Redirect 301 /article/345 /posts/2009-04-30-ministry-truth-presentation-caucus-rank-file-educators-chicago-public-schools.html
+Redirect 301 /article/346 /posts/2009-05-07-ministry-truth-presentation-qa-peoples-solutions-economic-crisis.html
+Redirect 301 /article/347 /posts/2009-05-14-ministry-truth-presentation-dean-baker-recent-economic-crisis.html
+Redirect 301 /article/348 /posts/2009-05-21-ministry-truth-presentation-jeremy-scahill-blackwater-xe.html
+Redirect 301 /article/349 /posts/2009-05-28-ministry-truth-interview-democracy-now-host-amy-goodman.html
+Redirect 301 /article/350 /posts/2009-05-27-chicago-usa-take-world-trivia-2009-world-quizzing-championships.html
+Redirect 301 /article/351 /posts/2009-06-04-ministry-truth-presentation-participatory-economics-finance-university-chicago.html
+Redirect 301 /article/352 /posts/2009-06-11-ministry-truth-monologue-dtv-transition-after-feb-17.html
+Redirect 301 /article/353 /posts/2009-06-18-ministry-truth-interview-mud-stencilers-tamms-year-ten-campaign-art-illinois-police-torture.html
+Redirect 301 /article/354 /posts/2009-07-02-ministry-truth-presentation-joey-mogul-torture-home-abroad-law-enforcement-military-officials.html
+Redirect 301 /article/355 /posts/2009-07-16-ministry-truth-interview-marty-conlisk-japanese-film-labor-beat-civil-liberies-media.html
+Redirect 301 /article/356 /posts/2009-07-13-montesi-maneuver-extended-strategy-towards-participatory-economy.html
+Redirect 301 /article/357 /posts/2009-07-23-ministry-truth-interview-kari-lydersen-revolt-goose-island.html
+Redirect 301 /article/358 /posts/2009-07-30-ministry-truth-radio-adaptation-montesi-maneuver-extended.html
+Redirect 301 /article/359 /posts/2009-08-06-ministry-truth-interview-dr-anne-scheetz-regarding-singlepayer-health-care.html
+Redirect 301 /article/360 /posts/2009-08-13-ministry-truth-interview-chris-mooney-coauthor-unscientific-america.html
+Redirect 301 /article/361 /posts/2009-09-03-ministry-truth-debate-between-paul-street-john-k-wilson-barack-obama-progressive.html
+Redirect 301 /article/362 /posts/2009-08-20-ministry-truth-interview-ron-kunde-chicago-air-water-show-protests-peace.html
+Redirect 301 /article/363 /posts/2009-09-10-ministry-truth-monologue-2009-crisis-american-broadcast-television.html
+Redirect 301 /article/364 /posts/2009-09-17-ministry-truth-american-foreign-policy-presentations-robert-naiman-andy-thayer.html
+Redirect 301 /article/365 /posts/2009-09-24-ministry-truth-interview-adam-kader-chicago-worker-center.html
+Redirect 301 /article/366 /posts/2009-10-08-ministry-truth-interview-jonathan-eylerwerve-global-integrity.html
+Redirect 301 /article/367 /posts/2009-10-15-ministry-truth-interview-cory-fischerhoffman-prometheus-radio-project-low-power-fm.html
+Redirect 301 /article/368 /posts/2009-10-22-ministry-truth-presentation-steve-macek-history-radio-united-states.html
+Redirect 301 /article/369 /posts/2009-10-21-powerpoint-pdf-materials-participatory-economics-womens-economic-equity.html
+Redirect 301 /article/370 /posts/2009-10-29-ministry-truth-interview-lynne-johnson-chicago-alliance-against-sexual-exploitation.html
+Redirect 301 /article/371 /posts/2009-11-19-ministry-truth-interview-andrew-friend-film-workers-republic.html
+Redirect 301 /article/372 /posts/2009-11-12-ministry-truth-interview-jordan-estevao-showdown-chicago-against-american-banking-association.html
+Redirect 301 /article/373 /posts/2009-12-03-ministry-truth-interview-ryszard-bester-anna-karewicz-wage-theft-among-polishamerican-workers.html
+Redirect 301 /article/374 /posts/2009-12-10-ministry-truth-excerpts-media-democracy-day-2009-mitchell-szczepanczyk-veronica-arreola-robert-koehler.html
+Redirect 301 /article/375 /posts/2009-11-07-pushing-first-domino-remarks-media-democracy-day-chicago-november-7-2009.html
+Redirect 301 /article/376 /posts/2009-12-17-ministry-truth-interview-dr-quentin-young-health-care-singlepayermedicare.html
+Redirect 301 /article/377 /posts/2010-01-02-awjchicago-indymedia-team-takes-third-place-annual-charity-trivia-bowl.html
+Redirect 301 /article/378 /posts/2010-01-07-ministry-truth-interview-marla-renn-2010-vancouver-winter-olympic-games.html
+Redirect 301 /article/379 /posts/2010-01-14-ministry-truth-interview-earl-silbar-public-workers-unite.html
+Redirect 301 /article/380 /posts/2010-01-21-ministry-truth-interview-jeff-phillips-dystopian-novella-turban-tan.html
+Redirect 301 /article/381 /posts/2008-11-08-video-protest-against-james-dobson-radio-hall-fame.html
+Redirect 301 /article/382 /posts/2009-03-14-video-highlights-march-14-2009-protest-peace-immigrant-rights.html
+Redirect 301 /article/383 /posts/2008-10-01-video-casino-free-philadelphia-takes-chicago-billionaire-neil-bluhm.html
+Redirect 301 /article/384 /posts/2008-09-27-video-10th-annual-matthew-shepard-rally-march.html
+Redirect 301 /article/385 /posts/2008-08-17-video-death-free-speech-2008-chicago-air-water-show.html
+Redirect 301 /article/386 /posts/2008-06-27-video-surviving-climate-change-roundtable-st-louis.html
+Redirect 301 /article/387 /posts/2008-08-02-video-war-iran-chicago-antiwar-rally-march.html
+Redirect 301 /article/388 /posts/2008-08-28-video-reenact-68-historical-reenactment-1968-dnc-protest-grant-park.html
+Redirect 301 /article/389 /posts/2008-06-06-video-2008-national-conference-media-reform.html
+Redirect 301 /article/390 /posts/2008-06-12-video-congress-hotel-strike-5th-anniversary.html
+Redirect 301 /article/391 /posts/2008-05-04-video-nakbaawareness-counterpresence-walk-israel.html
+Redirect 301 /article/392 /posts/2008-05-01-video-mayday-march-immigrant-labor-rights-2008.html
+Redirect 301 /article/393 /posts/2007-09-20-video-behind-scenes-chicago-fcc-hearing.html
+Redirect 301 /article/394 /posts/2008-07-28-video-dtv-red-alert-public-service-announcement.html
+Redirect 301 /article/395 /posts/2007-09-20-video-extended-testimony-before-federal-communications-commission.html
+Redirect 301 /article/399 /posts/2007-04-21-video-silence-malachi-ritscher-chicago-play-concerning-famed-political-activist.html
+Redirect 301 /article/400 /posts/2007-04-18-video-lobbying-public-access-tv-trip-chicago-springfield-il.html
+Redirect 301 /article/401 /posts/2007-12-09-video-im-dreaming-just-christmas-performed-members-kucinich-president-chicago-area-codepink.html
+Redirect 301 /article/402 /posts/2008-02-02-video-albany-park-north-park-mayfair-neighbors-peace-justice.html
+Redirect 301 /article/403 /posts/2009-10-03-video-chicago-calls-end-war-afghanistan.html
+Redirect 301 /article/404 /posts/2009-10-11-video-vigil-dead-fisk-coal-burning-plant-pilsen.html
+Redirect 301 /article/405 /posts/2009-08-15-video-2009-chicago-air-water-show.html
+Redirect 301 /article/406 /posts/2009-05-26-video-chicago-protests-california-court-supporting-proposition-8.html
+Redirect 301 /article/407 /posts/2008-03-23-video-catholic-schoolgirls-against-war-holy-name-cathedral.html
+Redirect 301 /article/408 /posts/2008-11-21-video-fcc-visits-chicago-raise-dtv-awareness.html
+Redirect 301 /article/409 /posts/2009-04-02-video-games-chicago-rally-against-2016-olympics.html
+Redirect 301 /article/410 /posts/2009-02-14-video-highlights-freedom-marry-actions-chicago-il.html
+Redirect 301 /article/411 /posts/2007-12-07-video-2007-chicago-media-action-holiday-singalong.html
+Redirect 301 /article/412 /posts/2009-02-03-video-press-conference-chicago-hearing-permit-6th-anniversary-march-peace-part-1.html
+Redirect 301 /article/413 /posts/2009-02-03-video-press-conference-chicago-hearing-permit-6th-anniversary-march-peace-part-2.html
+Redirect 301 /article/414 /posts/2009-03-14-video-palestine-march-14-2009-chicago-protest-peace-immigrant-rights.html
+Redirect 301 /article/415 /posts/2009-03-14-video-chicagotra-speech-march-14-2009-chicago-protest-peace-immigrant-rights.html
+Redirect 301 /article/416 /posts/2010-02-04-ministry-truth-interview-joshua-brolier-gaza-freedom-march.html
+Redirect 301 /article/417 /posts/2010-02-11-ministry-truth-interview-jessica-pupovac-independent-media-michael-tiller-case.html
+Redirect 301 /article/418 /posts/2010-02-11-blog-comments-chicago-mayor-daleys-remark-where-antiwar-protesters.html
+Redirect 301 /article/419 /posts/2010-02-18-ministry-truth-interview-ra-chaka-citizens-against-torture-chicago-police-torture.html
+Redirect 301 /article/420 /posts/2010-02-25-ministry-truth-interview-shawn-campbell-chirp-chicago-independent-radio-project.html
+Redirect 301 /article/421 /posts/2010-02-27-call-solidarity-gaming.html
+Redirect 301 /article/422 /posts/2010-03-12-witamy-serdecznie-welcome-world-zachary-kauser-szczepanczyk.html
+Redirect 301 /article/423 /posts/2010-04-08-ministry-truth-interview-bertha-escamilla-citizens-against-torture.html
+Redirect 301 /article/424 /posts/2010-04-15-ministry-truth-presentation-john-nichols-death-life-american-journalism.html
+Redirect 301 /article/425 /posts/2010-04-22-ministry-truth-presentation-robert-mcchesney-death-life-american-journalism.html
+Redirect 301 /article/426 /posts/2010-02-09-video-chicago-mayor-richard-m-daley-antiwar-supporter-antiwar-hypocrite.html
+Redirect 301 /article/427 /posts/2010-04-15-video-tea-party-rally-counterrally-daley-plaza.html
+Redirect 301 /article/428 /posts/2010-03-15-story-ministry-truth.html
+Redirect 301 /article/429 /posts/2010-05-06-ministry-truth-interview-doug-battema-academic-study-sports-media-united-states.html
+Redirect 301 /article/430 /posts/2010-05-13-ministry-truth-presentations-paul-street-cristobal-cavazos-2010-icjpe-conference.html
+Redirect 301 /article/431 /posts/2010-05-02-weekend-march-7-big-trivia-win-birth-son.html
+Redirect 301 /article/432 /posts/2010-05-09-invisible-hand-versus-invisible-foot.html
+Redirect 301 /article/433 /posts/2010-05-20-ministry-truth-interview-green-party-gubernatorial-candidate-rich-whitney.html
+Redirect 301 /article/434 /posts/2010-06-06-corporations-responsible-958-ills-world.html
+Redirect 301 /article/435 /posts/2010-08-19-ministry-truth-interview-tom-tresser-cook-county-presidential-race-2010.html
+Redirect 301 /article/436 /posts/2010-08-11-merger-isnt-comcastic.html
+Redirect 301 /article/437 /posts/2010-09-02-ministry-truth-interview-shirlee-rubenstein-gregory-koger-case.html
+Redirect 301 /article/438 /posts/2010-09-09-ministry-truth-interview-jude-ortiz-2010-conspiracy-tour-support-rnc8.html
+Redirect 301 /article/439 /posts/2010-09-16-ministry-truth-interview-kathy-kelly.html
+Redirect 301 /article/440 /posts/2010-09-23-ministry-truth-interview-chicago-artist-political-activist-chris-drew.html
+Redirect 301 /article/441 /posts/2010-10-14-ministry-truth-monologue-future-television-post2009.html
+Redirect 301 /article/442 /posts/2010-11-04-ministry-truth-interview-paul-durica-pocket-guide-hell-tours-reenactments.html
+Redirect 301 /article/443 /posts/2010-11-26-vice-corporations-virtue-markets.html
+Redirect 301 /article/444 /posts/2010-11-06-media-democracy-day-2010-story-chicago-independent-television.html
+Redirect 301 /article/445 /posts/2011-01-13-ministry-truth-excerpt-2011-roundtable-torture-chicago-police.html
+Redirect 301 /article/446 /posts/2011-01-20-ministry-truth-excerpt-2-2011-roundtable-torture-chicago-police.html
+Redirect 301 /article/447 /posts/2011-01-16-corporate-media-control-media-reform-struggles-presentation-third-unitarian-church-chicago.html
+Redirect 301 /article/448 /posts/2011-02-03-ministry-truth-excerpt-3-2011-roundtable-torture-chicago-police.html
+Redirect 301 /article/449 /posts/2011-02-17-ministry-truth-proposed-comcast-nbc-universal-joint-venture.html
+Redirect 301 /article/450 /posts/2011-01-30-north-american-scrabble-players-last-names-ranked-scrabble-score.html
+Redirect 301 /article/451 /posts/2011-03-17-ministry-truth-presentation-corporate-media-control-media-reform-struggles-part-1.html
+Redirect 301 /article/452 /posts/2011-04-21-ministry-truth-presentation-corporate-media-control-media-reform-struggles-part-2.html
+Redirect 301 /article/453 /posts/2011-05-19-ministry-truth-interview-natalie-moore-lance-williams-black-p-stone-nation-part-1-2.html
+Redirect 301 /article/454 /posts/2010-05-01-video-may-day-2010-rally-march-part-1.html
+Redirect 301 /article/455 /posts/2010-05-01-video-may-day-2010-rally-march-part-2.html
+Redirect 301 /article/456 /posts/2011-06-09-ministry-truth-interview-natalie-moore-lance-williams-black-p-stone-nation-part-2-2.html
+Redirect 301 /article/457 /posts/2010-08-01-video-jon-burge-police-torture-verdict.html
+Redirect 301 /article/461 /posts/2011-02-01-video-2010-midwest-march-peace-justice.html
+Redirect 301 /article/458 /posts/2010-10-01-video-net-neutrality-update.html
+Redirect 301 /article/459 /posts/2010-11-01-video-chicago-tifs-explained.html
+Redirect 301 /article/460 /posts/2011-02-01-video-update-net-neutrality.html
+Redirect 301 /article/462 /posts/2011-02-01-video-chicago-independent-television.html
+Redirect 301 /article/463 /posts/2011-03-01-video-south-side-mock-funeral.html
+Redirect 301 /article/464 /posts/2011-04-01-video-chicago-protests-eight-years-war.html
+Redirect 301 /article/465 /posts/2011-04-01-video-legal-victory-chicago-peace-protesters.html
+Redirect 301 /article/466 /posts/2011-04-01-video-chicago-stands-solidarity-palestine.html
+Redirect 301 /article/467 /posts/2011-05-01-video-2011-national-conference-media-reform.html
+Redirect 301 /article/468 /posts/2011-06-01-video-sights-sounds-may-day-2011.html
+Redirect 301 /article/469 /posts/2011-09-20-wants-millionaire-appearance-addressing-wants-millionaire-conspiracy-theories.html
+Redirect 301 /article/470 /posts/2011-07-01-video-single-payer-voices.html
+Redirect 301 /article/471 /posts/2011-08-01-video-bradley-manning-contingent-2011-chicago-pride-parade.html
+Redirect 301 /article/472 /posts/2011-10-01-video-inspiring-story-chicago-antiolympics-movement.html
+Redirect 301 /article/473 /posts/2011-11-01-video-10th-anniversary-war-afghanistan.html
+Redirect 301 /article/474 /posts/2011-12-01-video-rahm-emanuels-sordid-history.html
+Redirect 301 /article/475 /posts/2011-11-06-leading-media-democracy-stories-2011.html
+Redirect 301 /article/476 /posts/2012-01-02-winning-eric-patton.html
+Redirect 301 /article/477 /posts/2012-07-05-ministry-truth-interview-andrew-jay-schwartzman-media-access-project.html
+Redirect 301 /article/478 /posts/2012-08-16-ministry-truth-interview-sue-wilson-media-action-center.html
+Redirect 301 /article/479 /posts/2012-09-13-ministry-truth-interview-loretta-capeheart.html
+Redirect 301 /article/480 /posts/2012-02-06-response-disclosure-rule-first-step-toward-quotas.html
+Redirect 301 /article/481 /posts/2012-03-01-video-saga-lake-shore-drive-antiwar-lawsuit-20032012.html
+Redirect 301 /article/482 /posts/2012-04-01-video-rahm-grinch.html
+Redirect 301 /article/483 /posts/2012-05-01-video-g8-chicago-brief-history.html
+Redirect 301 /article/484 /posts/2012-06-01-video-fly-kite-rahm.html
+Redirect 301 /article/485 /posts/2012-10-01-video-iraq-war-9th-anniversary-antiwar-rally-march-march-18-2012.html
+Redirect 301 /article/486 /posts/2012-11-01-video-inside-chicago-teachers-union-2012-strike.html
+Redirect 301 /article/487 /posts/2012-11-01-video-rush-limbaugh-protest.html
+Redirect 301 /article/488 /posts/2012-12-27-ministry-truth-interview-robin-hahnel-book-people-people-case-participatory-economy.html
+Redirect 301 /article/489 /posts/2013-10-27-koch-brothers-media.html
+Redirect 301 /article/490 /posts/2014-04-10-ministry-truth-interview-chicago-mayoral-candidate-dr-amara-enyia.html
+Redirect 301 /article/491 /posts/2015-10-14-video-parse-right-using-clojure-clojurescript-examine-english.html
+Redirect 301 /article/492 /posts/2014-11-01-video-connection-between-global-warming-polar-vortex.html
+Redirect 301 /article/493 /posts/2014-05-04-video-profiles-cowardice-rahm-emanuel.html
+Redirect 301 /article/494 /posts/2015-04-01-video-helen-morley-rahm-emanuel.html
+Redirect 301 /article/495 /posts/2015-05-01-video-victory-net-neutrality-wars-personal-recollection-2006-2015.html
+
+RewriteCond %{QUERY_STRING} ^p=1$
+RewriteRule ^blog /posts/2010-05-02-the-weekend-of-march-7-big-trivia-win-and-the-birth-of-my-son.html
+
+RewriteCond %{QUERY_STRING} ^p=6$
+RewriteRule ^blog /posts/2010-05-09-the-invisible-hand-versus-the-invisible-foot.html
+
+RewriteCond %{QUERY_STRING} ^p=9$
+RewriteRule ^blog /posts/2010-06-06-corporations-responsible-for-95-8-of-all-ills-in-the-world.html
+
+RewriteCond %{QUERY_STRING} ^p=11$
+RewriteRule ^blog /posts/2010-11-26-the-vice-of-corporations-and-the-virtue-of-markets.html
+
+RewriteCond %{QUERY_STRING} ^p=15$
+RewriteRule ^blog /posts/2011-01-30-north-american-scrabble-players-last-names-ranked-by-scrabble-score.html
+
+RewriteCond %{QUERY_STRING} ^p=26$
+RewriteRule ^blog /posts/2011-02-20-the-most-clever-christmas-gift-i-ever-gave.html
+
+RewriteCond %{QUERY_STRING} ^p=39$
+RewriteRule ^blog /posts/2011-05-23-i-didnt-expect-to-find-the-best-veggie-burger-of-my-life-at-a-boston-sports-bar-but.html
+
+RewriteCond %{QUERY_STRING} ^p=41$
+RewriteRule ^blog /posts/2012-03-21-some-thoughts-spurred-by-goldman-sachs.html
+
+RewriteCond %{QUERY_STRING} ^p=48$
+RewriteRule ^blog /posts/2012-04-08-the-meta-competition-for-a-participatory-society.html
+
+RewriteCond %{QUERY_STRING} ^p=57$
+RewriteRule ^blog /posts/2012-07-15-jeopardy-daytime-or-primetime.html
+
+RewriteCond %{QUERY_STRING} ^p=65$
+RewriteRule ^blog /posts/2012-09-15-my-experience-at-the-2012-team-trivia-national-championship-and-how-we-came-this-close-to-winning-10000.html
+
+RewriteCond %{QUERY_STRING} ^p=76$
+RewriteRule ^blog /posts/2012-11-01-some-problems-with-nbcs-tv-show-revolution.html
+
+RewriteCond %{QUERY_STRING} ^p=83$
+RewriteRule ^blog /posts/2012-11-29-the-media-and-climate-change-a-race-between-media-reclamation-and-future-calamity.html
+
+RewriteCond %{QUERY_STRING} ^p=92$
+RewriteRule ^blog /posts/2013-04-12-a-birthday-promise-to-blog.html
+
+RewriteCond %{QUERY_STRING} ^p=98$
+RewriteRule ^blog /posts/2013-04-13-my-mega-ambitious-dream-build-a-parallel-participatory-economy-online.html
+
+RewriteCond %{QUERY_STRING} ^p=100$
+RewriteRule ^blog /posts/2013-04-14-a-ten-year-plan-of-activism.html
+
+RewriteCond %{QUERY_STRING} ^p=102$
+RewriteRule ^blog /posts/2013-04-15-the-importance-of-vision-in-activism.html
+
+RewriteCond %{QUERY_STRING} ^p=109$
+RewriteRule ^blog /posts/2013-04-16-the-internet-capitalism-and-holding-back.html
+
+RewriteCond %{QUERY_STRING} ^p=111$
+RewriteRule ^blog /posts/2013-04-17-insert-here-random-ramblings-on-food-gamification-activism-and-parecon.html
+
+RewriteCond %{QUERY_STRING} ^p=113$
+RewriteRule ^blog /posts/2013-04-18-is-consuming-news-bad-for-you.html
+
+RewriteCond %{QUERY_STRING} ^p=115$
+RewriteRule ^blog /posts/2013-04-19-why-are-people-selling-guns-online-and-skirting-the-law-are-they-in-economic-dire-straits.html
+
+RewriteCond %{QUERY_STRING} ^p=119$
+RewriteRule ^blog /posts/2013-04-22-a-primer-on-the-koch-industries-and-the-tribunes-newspapers.html
+
+RewriteCond %{QUERY_STRING} ^p=126$
+RewriteRule ^blog /posts/2013-04-23-a-more-detailed-proposal-for-parecons-indicative-prices.html
+
+RewriteCond %{QUERY_STRING} ^p=130$
+RewriteRule ^blog /posts/2015-03-06-take-this-jeopardy-and-shove-it.html
+
+RewriteCond %{QUERY_STRING} ^m=[0-9]+$
+RewriteRule ^blog /archives.html
+
+RewriteCond %{QUERY_STRING} ^cat=(9|11|48|49|21|18|51|73|74)$
+RewriteRule ^blog /tags/economics.html
+
+RewriteCond %{QUERY_STRING} ^cat=(6|19|42|70|71)$
+RewriteRule ^blog /tags/media.html
+
+RewriteCond %{QUERY_STRING} ^cat=(3|52|4|32)$
+RewriteRule ^blog /tags/trivia.html
+
+RewriteCond %{QUERY_STRING} ^cat=(55|54|34|35)$
+RewriteRule ^blog /tags/television.html
+
+RewriteCond %{QUERY_STRING} ^cat=(33|53)$
+RewriteRule ^blog /tags/programming.html
+
+RewriteCond %{QUERY_STRING} ^cat=1$
+RewriteRule ^blog /archives.html
+
+RewriteCond %{QUERY_STRING} ^cat=41$
+RewriteRule ^blog /tags/reviews.html
+
+RewriteCond %{QUERY_STRING} ^page_id=2$
+RewriteRule ^blog /pages/about.html
+
+RedirectMatch 301 /posts/([a-z0-9\-]+)\.html /posts/$1/
+#Redirect 301 /posts/2016-04-17-reply-to-zombie-neoliberalism.html /posts/2016-04-17-reply-to-zombie-neoliberalism/
+
+RedirectMatch 301 /tags/([a-z]+).html /$1
+#RedirectMatch 301 /pages/(.*).html /pages/$1/
+Redirect 301 /pages/legal/index /pages/legal
+Redirect 301 /archives.html /archives
+#Redirect 301 /tags.html /tags
+Redirect 301 /posts/2016-05-20-some-ideas-reimagining-iops/index/ /posts/2016-05-20-some-ideas-reimagining-iops/
+Redirect 301 /biography /pages/about
+Redirect 301 /pronunciation /pages/pronunciation
+Redirect 301 /contact /pages/contact
+Redirect 301 /legal /pages/legal
+#Redirect 301 /indymedia /tags/indymedia.html
+#Redirect 301 /radio /tags/radio.html
+Redirect 301 /misc_media /media
+Redirect 301 /thirdcoastpress /media
+Redirect 301 /chicago_maroon /media
+Redirect 301 /gatewayarch /posts/2002-04-23-mistake-base-gateway-arch/
+Redirect 301 /science_and_math /science
+#Redirect 301 /economics /tags/economics.html
+#Redirect 301 /reviews /tags/reviews.html
+Redirect 301 /short_plays /plays
+#Redirect 301 /quotes /plays
+Redirect 301 /stanleycup /posts/1999-08-27-stanley-cup-history-abuse-neglect/
+Redirect 301 /languagefun /language
+Redirect 301 /braingames /trivia
+#RedirectMatch 301 /tags/([a-z]+).html /$1
+#RedirectMatch 301 /pages/(.*).html /pages/$1/
+#Redirect 301 /blog/index.html/ index.html
+#RewriteRule ^/blog/.*$ /index.html 
+Redirect 301 /economic_equity_parecon_v1.ppt /img/economic_equity_parecon_v1.ppt
+Redirect 301 /womens_econ_equity_and_parecon.pdf /img/womens_econ_equity_and_parecon.pdf

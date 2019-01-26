@@ -13,7 +13,7 @@ me know if you have any questions or suggestions.
   
 ----  
   
-[Economic Equity and Parecon slideshow (Microsoft Powerpoint format)](http://www.szcz.org/economic_equity_parecon_v1.ppt)  
+[Economic Equity and Parecon slideshow (Microsoft Powerpoint format)](http://www.szcz.org/img/economic_equity_parecon_v1.ppt)  
   
-[Economic Equity and Parecon cheat sheet (Adobe PDF format)](http://www.szcz.org/womens_econ_equity_and_parecon.pdf) 
+[Economic Equity and Parecon cheat sheet (Adobe PDF format)](http://www.szcz.org/img/womens_econ_equity_and_parecon.pdf) 
 
