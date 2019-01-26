@@ -727,3 +727,4 @@ Redirect 301 /braingames /trivia
 #RewriteRule ^/blog/.*$ /index.html 
 Redirect 301 /economic_equity_parecon_v1.ppt /img/economic_equity_parecon_v1.ppt
 Redirect 301 /womens_econ_equity_and_parecon.pdf /img/womens_econ_equity_and_parecon.pdf
+Redirect 301 /subanagram.pl https://gist.github.com/msszczep/4d5ed17d64c2da4fb676209b7dc4ca00
