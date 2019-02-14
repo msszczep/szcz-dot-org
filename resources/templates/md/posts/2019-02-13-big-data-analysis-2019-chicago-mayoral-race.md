@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["programming" "elections"]}
 
-<img src="http://www.szcz.org/img/chicago_mayor_2019.png" alt="Chicago mayor's race in the REPL"/>
+<img src="http://www.szcz.org/img/chicago-mayor-2019.png" width="300px" alt="Chicago mayoral race in the REPL"/>
 
 The 2019 Chicago mayoral race has 14 candidates.  Some weeks ago, I read [this questionnaire](https://interactive.wbez.org/2019/mayoral-questionnaire/) on the WBEZ website, where 13 of the 14 candidates are asked 19 (not 20, as advertised on the article) yes-or-no questions.  The article is useful, but it doesn't tabulate the results.
 
