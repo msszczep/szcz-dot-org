@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["trivia"]}
 
-<img src="http://www.szcz.org/img/st-matthias-trivia-2019.png" width="500px" alt="Trivia!"/>
+<img src="http://www.szcz.org/img/st-matthias-trivia-2019.jpg" width="500px" alt="Trivia!"/>
 
 Number of members of my team: 2
 
