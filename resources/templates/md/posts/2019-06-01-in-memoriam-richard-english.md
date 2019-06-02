@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["radio" "media"]}
 
-<img src="http://www.szcz.org/img/richard-english.jpg" width="550px" alt="Richard English"/>
+<img src="http://www.szcz.org/img/richard-english.png" width="200px" alt="Richard English"/>
 
 It was late summer 1983, probably August, definitely a week before I was about to start
 third grade.  My mother was driving my sister and I when we passed by West Side 
