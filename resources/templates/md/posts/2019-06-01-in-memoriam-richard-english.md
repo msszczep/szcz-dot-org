@@ -5,7 +5,7 @@
 <img src="http://www.szcz.org/img/richard-english.png" width="200px" alt="Richard English"/>
 
 It was late summer 1983, probably August, definitely a week before I was about to start
-third grade.  My mother was driving my sister and I when we passed by West Side 
+third grade.  My mother was driving my sister and I when we passed by North East
 Complex, where my godmother worked.  My mother stopped the car so we could pay a visit to my 
 godmother.  I objected.
 
@@ -54,7 +54,7 @@ in the afternoon, at 4:15PM.
 
 So it continued, more or less, every Saturday, for nearly six-and-a-half years.  
 In all that time, I never once visited the station in person.  I don't think I ever
-even learned the station's address.  I did attend a station meeting once, held at West Side 
+even learned the station's address.  I did attend a station meeting once, held at North East
 Complex.
 
 I remember the date of my last broadcast: December 24, 1989 -- the day before Christmas.
@@ -66,8 +66,8 @@ I finally found out what happened...fifteen years later.  By now I had moved to 
 had earned my second master's degree.  I had also made an unpaid career of my own 
 in media generally: producing a TV series, making short documentary films, building 
 websites, working on media policy, and of course working in radio, maintaining one radio 
-show and then another.  Among my adventures in media I had contributed to, and 
-availed myself of, GRTV.  One day, I heard from my mother that Mr. English was working 
+show and then another.  Among the resources in media I had contributed to, and
+availed myself of, was GRTV.  One day, I heard from my mother that Mr. English was working
 as staff at GRTV.
 
 So one day, I visited GRTV and (re)introduced myself.  And it struck me: In all the times 
