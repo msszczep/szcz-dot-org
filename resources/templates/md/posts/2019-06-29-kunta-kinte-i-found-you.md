@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["quotes" "television" "media"]}
 
-<img src="http://www.szcz.org/img/kunta-kinte-i-found-you.gif" width="200px" alt="I found you"/>
+<img src="http://www.szcz.org/img/kunta-kinte-i-found-you.gif" width="300px" alt="I found you"/>
 
 Whenever I find something, usually in the context of looking for the source of a computer
 bug, I tend to say the same quote:
