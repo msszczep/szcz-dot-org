@@ -29,4 +29,4 @@ mentioned and praised Stephanie, saying that Clojure would not have been created
 Stephanie hadn't taken on additional burden for maintaining the household while Rich worked
 on Clojure.
 
-I think it's great that Stephanie set to learn the programming language what she played a role in helping to make, and I'm honored to have played a small part of that.
+I think it's great that Stephanie set to learn the programming language that she played a role in helping to make, and I'm honored to have played a small part of that.
