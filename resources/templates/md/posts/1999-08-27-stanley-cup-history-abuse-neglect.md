@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["sports"]}
 
-![](http://www.szcz.org/images/Sc01.jpg) 
+![](http://www.szcz.org/img/Sc01.jpg) 
 
 _"One of the great rules of hockey is: On the Stanley Cup, all germs are healthy."_ --George Vecsey, _The New York Times_, June 11, 1999
 
@@ -45,7 +45,7 @@ Stanley, Baron Stanley of Preston, in the County of Lancaster, in the Peerage
 of Great Britain, Knight Grand Cross of the Most Honourable Order of the
 Bath." (inhale)
 
-![](http://www.szcz.org/images/Stanley1.jpg)Stan The Man became
+![](http://www.szcz.org/img/Stanley1.jpg)Stan The Man became
 interested in hockey during his stint as Governor General from 1888 to 1893.
 He offered to pay 10 guineas for a trophy to be used as a challenge cup
 rewarding the best amateur hockey teams in Canada and first awarded for the
@@ -65,7 +65,7 @@ winning teams engraved on them. The trophy grew to its present height of
 base 54 inches in circumferences. It weighs 32 pounds, though, in the words of
 an ESPN sportscaster, "when you win it, it is but a feather."
 
-![](http://www.szcz.org/images/Sc03.jpg)
+![](http://www.szcz.org/img/Sc03.jpg)
 
 Though Stanley wanted his Cup to be the domain of amateur hockey players,
 professional leagues would eventually elbow their way in. (Amateur teams
@@ -112,7 +112,7 @@ Abandonment came, abuse (or at least some really weird treatment) followed.
 
 **BOSTON, 1988.** During the 1988 finals, two Harvard seniors served as security and guarded the Cup in Boston's Ritz-Carlton hotel. 
 
-**NEW YORK CITY, 1994.** New Yorkers savored the Cup when the Rangers won for the first time in 54 years. As Sports illustrated told it: "Like a loose puck it has been slapped from bar to nightclub to ballpark to ballroom to racetrack to squad car to firehouse to strip joint. Along the way it has been kissed, petted, hugged, massaged, fondled and shaken in exultation by thousands of fans. Many have taken sips from its ample bowl. 'God only knows whose lips have been on that thing,' says Bruce Lifrieri, the Rangers' massage therapist. " The litany of hijinks in New York alone deserves a webpage of its own:![](http://www.szcz.org/images/Sc04.jpg)
+**NEW YORK CITY, 1994.** New Yorkers savored the Cup when the Rangers won for the first time in 54 years. As Sports illustrated told it: "Like a loose puck it has been slapped from bar to nightclub to ballpark to ballroom to racetrack to squad car to firehouse to strip joint. Along the way it has been kissed, petted, hugged, massaged, fondled and shaken in exultation by thousands of fans. Many have taken sips from its ample bowl. 'God only knows whose lips have been on that thing,' says Bruce Lifrieri, the Rangers' massage therapist. " The litany of hijinks in New York alone deserves a webpage of its own:![](http://www.szcz.org/img/Sc04.jpg)
 
   * Mark Messier and Brian Leetch brought the Cup on The Late Show with David Letterman and did Stupid Cup Tricks.   
 
@@ -136,7 +136,7 @@ bang up a trophy.)
 Indeed, in the words of Sport Illustrated's Franz Lidz, "Roughhousing is part
 of the trophy's tradition."
 
-![](http://www.szcz.org/images/Sc02.jpg)
+![](http://www.szcz.org/img/Sc02.jpg)
 
   * The Cup was reputedly dismantled (by whom, when, where, how and for how long, I don't know--though it might have been done on numerous occasions).  
 

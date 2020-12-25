@@ -12,7 +12,7 @@ Urdu for "Kauser" (which means "intelligent" or "wise one"), and Polish
 for "Szczepanczyk" ("son of Stephen [Szczepan]", even though this Zachary
 is a son of Mitchell). :-)
 
-![](http://www.szcz.org/images/zachary_newborn_1.jpg)  
+![](http://www.szcz.org/img/zachary_newborn_1.jpg)  
  
-![](http://www.szcz.org/images/zachary_newborn_2.jpg) 
+![](http://www.szcz.org/img/zachary_newborn_2.jpg) 
 
