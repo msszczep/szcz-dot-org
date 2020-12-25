@@ -34,5 +34,4 @@ differ.
 <script type="text/javascript" src="http://www.szcz.org/js/eat.js"></script>
 
 The source code is available online [here](https://github.com/msszczep/eat-cljs) and is 
-based on the source for my [Subanagram generator in Clojurescript](https://github.com/msszczep/subanagram-cljs).  Thanks to Darius Kazemi for [providing a JSON version of the Thesaurus, 
-which I used in this app](https://github.com/dariusk/ea-thesaurus).
+based on the source for my [Subanagram generator in Clojurescript](https://github.com/msszczep/subanagram-cljs).  Thanks to Darius Kazemi for [providing a JSON version of the Thesaurus, which I used in this app](https://github.com/dariusk/ea-thesaurus).
