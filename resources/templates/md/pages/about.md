@@ -8,7 +8,7 @@ Mitchell Szczepanczyk is a software developer who has pursued a suite of differe
 
 ## Software / Computer Programming
 
-Since 2000, Mitchell has worked as a professional software developer and engineer, and he is expert in a number of computer programming and scripting languages.  His strongest languages are Python, Clojure, Clojurescript, Elm, and Javascript; he also has experience with Java, Ruby, the Wolfram Language (Mathematica), ASP, and Erlang; and he has past experience with PHP, Perl, Lisp, C, and Fortran.  Some of his code is available online on his [Github](https://github.com/msszczep) and [Github Gist](https://gist.github.com/msszczep) accounts.
+Since 2000, Mitchell has worked as a professional software developer and engineer, and he is expert in a number of computer programming and scripting languages.  His strongest languages are Python, Clojure, Clojurescript, Elm, and Javascript; he also has experience with Java, Ruby, the Wolfram Language (Mathematica), ASP, and Erlang; and he has past experience with PHP, Perl, LISP, C, and Fortran.  Some of his code is available online on his [Github](https://github.com/msszczep) and [Github Gist](https://gist.github.com/msszczep) accounts.
  
 ## Radio
 
@@ -22,7 +22,7 @@ From 2004 to 2017, Mitchell has helped produce and contributed to Chicago Indyme
 
 Mitchell is also a political activist, and has been involved in groups working toward positive social change, particularly around media and political economy. As a longtime organizer with Chicago Media Action (CMA), Mitchell has worked on CMA campaigns around the Federal Communications Commission and corporate media concentration, public access television, public radio and television, community internet initiatives, network neutrality, and the U.S. digital television transition.  Much of his work there is chronicled on the website for [Chicago Media Action](http://www.chicagomediaaction.org).  In March 2009, Mitchell was the subject of a cover story in the Chicago Reader entitled "Who's Holding the Remote?".
 
-Mitchell has been involved with groups working on the heterodox economic model known as "participatory economics"; he co-founded CAPES, the Chicago Area Participatory Economics Society, and has organized events with CAPES.  He was also active with the Chicago chapter of IOPS (the International Organization for a Participatory Society), and is currently helping to develop computational models of participatory economics.
+Mitchell has been involved with groups working on the heterodox economic model known as a "participatory economy"; he co-founded CAPES, the Chicago Area Participatory Economics Society, and has organized events with CAPES.  He was also active with the Chicago chapter of IOPS (the International Organization for a Participatory Society), and is currently helping to develop computational models of a participatory economy.
 
 ## Trivia
 

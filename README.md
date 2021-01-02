@@ -7,4 +7,4 @@ To generate the files, simply run:
 lein ring server
 `
 
-To upload the files to the server, run the rsync.sh script from the command line.  Note: You will get prompted for a password _twice_.
+To upload the files to the server, run the `rsync.sh` script from the command line.
