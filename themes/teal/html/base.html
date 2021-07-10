@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>{{title}}{% block subtitle %}{% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700' rel='stylesheet'
+          type='text/css'>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.1/styles/default.min.css">
+    {% style "css/screen.css" %}
+</head>
+<body>
+
+
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="{{index-uri}}">{{title}}<br><h5>{{description}}</h5></a>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li
+                {% if archives %} class="active" {% endif %}><a href="{{archives-uri}}">Archives</a></li>
+                {% for nav-page in navbar-pages %}
+                <li
+                {%ifequal page.uri nav-page.uri %} class="active" {% endifequal %}>
+                <a href="{{nav-page.uri}}">{{nav-page.title}}</a>
+                </li>
+                {% endfor %}
+                <li><a href="{{rss-uri}}">RSS</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div><!--/.container-fluid -->
+</nav>
+
+
+<div class="container">
+
+
+    <div class="row">
+        <div class="col-lg-9">
+            <div id="content">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div id="sidebar">
+                <h3>Links</h3>
+                <ul id="links">
+                    <li><a href="http://chicago.indymedia.org">Chicago Indymedia</a></li>
+                    <li><a href="http://www.chicagomediaaction.org">Chicago Media Action</a></li>
+                    <li><a href="https://www.facebook.com/mitchell.szczepanczyk">Facebook</a></li>
+                    <li><a href="https://www.flickr.com/photos/29850365@N04">Flickr</a></li>
+                    <li><a href="http://www.4clojure.com/user/msszczep">4Clojure</a></li>
+                    <li><a href="https://github.com/msszczep">Github</a></li>
+                    <li><a href="https://gist.github.com/msszczep">Github Gist</a></li>
+                    <li><a href="https://en.gravatar.com/dennisdixonchicago">Gravatar</a></li>
+                    <li><a href="https://www.linkedin.com/profile/view?id=AAEAAAEGw4kBYi6Epy5YXGhi9K0bXM6DHfBBKrE">LinkedIn</a></li>
+                    <li><a href="https://pinboard.in/u:msszczep">Pinboard</a></li>
+                    <li><a href="https://www.pinterest.com/mitchellszczepa/">Pinterest</a></li>
+                    <li><a href="http://www.theparseisright.com">The Parse is Right</a></li>
+                    <li><a href="https://twitter.com/msszczep">Twitter</a></li>
+                    <li><a href="https://www.youtube.com/msszczep">YouTube</a></li>
+                    <li><a href="https://zcomm.org/author/mitchellszczepanczyk-2/?post_type=blogpost">ZNet</a></li>
+                    {% for page in sidebar-pages %}
+                    <li><a href="{{page.uri}}">{{page.title}}</a></li>
+                    {% endfor %}
+                </ul>
+                {% if latest-posts|not-empty %}
+                <div id="recent">
+                    <h3>Most recent posts</h3>
+                    <ul>
+                        {% for post in latest-posts %}
+                        <li><a href="{{post.uri}}">{{post.title}}</a> - {{post.date|date:longDate}}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+                {% if tags|not-empty %}
+                <div id="tags">
+                    <h3>Tags</h3>
+                    <ul>
+                        {% for tag in tags|sort-by:name %}
+                        <li><a href="{{tag.uri}}">{{tag.name}}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    <footer><a href="http://www.szcz.org/pages/legal">Copyleft</a> 1996 - {% now yyyy %} by {{author}} | Built with <a href="http://cryogenweb.org">Cryogen</a></footer>
+</div>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+{% script "js/highlight.pack.js" %}
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
