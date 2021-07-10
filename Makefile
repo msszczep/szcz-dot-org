@@ -1,2 +1,2 @@
 clean:
-	lein clean; rm -r public
+	lein clean; rm -rf public
