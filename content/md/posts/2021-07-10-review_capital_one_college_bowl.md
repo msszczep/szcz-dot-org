@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["reviews" "trivia" "television"]}
 
-<img src="http://www.szcz.org/img/capital-one-college-bowl.jpg" alt="Capital One College Bowl" width="300px"/>\
+<img src="http://www.szcz.org/img/capital-one-college-bowl.jpg" alt="Capital One College Bowl" width="300px"/><br>
 
 [G.E. College Bowl](http://www.collegebowl.com/gecollegebowlresultrptdlg.asp) was a staple of broadcast television for more than a decade (1959 to 1970).  Some time after College Bowl went off network television, College Bowl Company Incorporated (CBI), the company that ran College Bowl, organized a Campus Program, an annual competition which ran on college campuses from 1977 to 2008.  Some of those completitions also got national airplay, including the national semifinals and finals in 1984 on NBC with Pat Sajak as host.  Some players criticized the game's excessive bureaucratic rules, the question quality (or lack thereof), and organizational incompetence -- and in response they organized rival quiz tournaments like [Academic Competition Foundation/Federation](https://acf-quizbowl.com/) (ACF), [National Academic Quiz Tournaments](https://www.naqt.com/) (NAQT), and [Testing Recall About Strange Happenings](https://www.naqt.com/index.jsp) (TRASH).
 

@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["language" "programming"]}
 
-Letter to: Representative Greg VanWoerkom
+Letter to: Representative Greg VanWoerkom<br>
 Re: Michigan House Bill 4326
 
 Dear Representative VanWoerkom,
@@ -23,7 +23,7 @@ Thank you for your time and attention.
 
 Sincerely,
 
-Mitchell Szczepanczyk
+Mitchell Szczepanczyk<br>
 http://www.szcz.org
 
 
