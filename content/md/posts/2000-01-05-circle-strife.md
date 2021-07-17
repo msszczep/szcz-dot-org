@@ -7,13 +7,13 @@ _(A single person stands on a bare stage except for a single pair of shoes near 
 Georges Melies was a French film director. He was one of the premier innovators of the cinema in the late 19th and early 20th centuries. But he
 began his life working for his father making shoes. 
 
-_(drops the shoes, takes one giant step 60 degrees to the right, leaving the shoes at the rear of the stage; 5 more such steps will be taken in the course of the play, going in a hexagon-shaped path during the play before arriving back at the beginning, marked by the shoes) _
+_(drops the shoes, takes one giant step 60 degrees to the right, leaving the shoes at the rear of the stage; 5 more such steps will be taken in the course of the play, going in a hexagon-shaped path during the play before arriving back at the beginning, marked by the shoes)_
 
 Georges would become a magician. He bought a theater--the Theatre Robert-Houdin--where he produced magic shows. In 1895, Georges was one of 33 people
 invted for the first public showing of the Lumiere Cinematograph, one of the
 first moving pictures. 
 
-_(takes one giant step 60 degrees to the right) _
+_(takes one giant step 60 degrees to the right)_
 
 Georges was inspired. He made his own camera--the Kinetograph--and began
 making his own films. He put magic tricks in his films; one film, The
