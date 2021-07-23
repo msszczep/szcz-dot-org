@@ -4,7 +4,7 @@
 
 One of my main hobbies for the past four years has been what has been called
 academic quiz competitions. I have been most fortunate to be a part of two of
-the premier programs in the world the University of Michigan, and the
+the premier programs in the world at the University of Michigan and the
 University of Chicago. I have been blessed with a great deal of success in my
 career, earning all star commendations at least five times, and gaining
 national renown for my question writing prowess. I have also codified my
