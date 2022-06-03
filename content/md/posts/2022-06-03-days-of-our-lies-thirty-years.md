@@ -1,0 +1,28 @@
+{:title "Days Of Our Lies - Thirty Years On"
+:layout :post
+:tags  ["television" "media" "vegan"]}
+
+<img src="http://www.szcz.org/img/dool.png" alt="Like sands through the hourglass..." width="400px"/><br>
+
+It was May 1992, my last month of high school, and my high school humanities class had as its final project the production of a movie.  My role was that of screenwriter, and I had submitted a movie script which I wrote; it was one of two scripts that were submitted for the class, and mine wasn't chosen.  We made the film and we were told the film was going to be cablecast on GRTV Channel 23, our local public access cable channel, on May 26, 1992, at 8PM.
+
+I tuned in and watched.  The movie my class made wasn't on, and as far as I know never came on.  Instead, there were these two guys, both high school students I later learned, who were setting up a show, sitting on a couch, talking with each other about whatever struck their fancy and taking phone calls from viewers who also wanted to talk.
+
+About a half-hour into this show, two other guys effectively barged in to announce that they were going to produce a new show that was going to air on Channel 23 starting the following week.  They made the boast that the show was going to have "more facts than this show, or the NBC Nightly News for that matter" and that the show was going to be called "The Days Of Our Lies" and would air the following Wednesday, June 3, starting at 9:30PM.
+
+I was intrigued.  More facts than the NBC Nightly News?  I liked how that sounded.  Plus, the show had a great pun, so I made sure I tuned it to watch.  What I saw, it's no exaggeration to say, changed my life.  People will sometimes say that a book changed their life, or maybe a movie, but very rarely do they say that a _television show_ changed their life.  This one did for me.
+
+> "Welcome to the first issue of Days Of Our Lies, your new weekly news-magazine.  We at Days Of Our Lies believe there is a clear and conscious effort on the part of the media monopoly in this country to manage information, disseminate propaganda, and perpetuate corporate greed.  In short, we don't believe the liberal media.  Therefore, we strongly believe that it is necessary for us as citizens of the USA to resist the corporate control of the media.  We must engage in informational, analytical, intellectual battle with the forces that attempt to control our minds and our lives.  This show, Days Of Our Lies, is an attempt to do just that.  We plan to offer alternative views and stories about the media cartel and affirmative action in order to bring about change.  We are not supported by corporate greed; therefore, we can only offer our angst and our desire for truth as weapons against the corporate media's constant carpet-bombing of your mind."
+
+That was the introduction [on the very first episode](https://www.youtube.com/watch?v=JnLyF4RVjK8) of Days Of Our Lies (without the initial article).  It turns out that the same gentleman who read those words, Jeff Danielski, was one of the guys who barged onto GRTV a week earlier.  Then came the very first report, which discussed the media, and how the media were becoming increasingly concentrated, and how that would affect what got reported, or didn't get reported, or how.
+
+This came to me as a breathtaking realization.  I considered myself a well-informed individual, well-read and all; I had _just_ graduated from high school and was on my way to college and yet I had never, _not once_, heard about this.  I felt betrayed; where had this been all my life?  (I consider this report pivotal for laying the groundwork in my mind for the work I would follow in media, media politics, media policy, and media activism for most of my adult life, because I owe it to myself to pass along this realization to others as it was passed to me.)
+
+DOOL, as it was abbreviated, would also introduce me to other things -- the wider realm of politics and foreign policy.  It also made the first case I had ever heard for having a vegetarian diet; I looked into it more, did it one better, and I write these words as having adhered to a _vegan_ diet in my twenty-eighth year.  
+
+I watched DOOL dutifully, and recorded it on VHS, as did my family for whom I'm very grateful.  Some of those recordings have now [made their way to the internet](https://www.youtube.com/playlist?list=PLJVY5D4zAA0WU196PMKvuvsvl3KFuhaav).  In the summer of 1994, I even got to participate on some episodes.  DOOL would go on to run on GRTV for six years.
+
+I post this article on the thirtieth anniversary of the first episode of the show, and as I reflect on DOOL and the way it shaped my life, it's uncanny how close I came to missing the show entirely.  _If_ my high school class chose not to make a movie _or if_ they didn't mention the airtime or channel or got that wrong _or if_ I chose not to watch when I saw that my class's film wasn't on _or if_ Jeff Danielski didn't make an unscheduled appearance while I happened to be watching, I proably wouldn't have seen the show and my life would have been markedly different.  This is as true a testament to the chance contingency of events.
+
+But at the same time, it's also testament to the power of taking action.  DOOL pulsed with that presumption in every episode, and it's one I have come to agree with and appreciate.  And as a result, I never dismiss any action, no matter how small, because you never know where it might lead.  Without the efforts of four guys and the GRTV staff thirty years ago, there would have been no DOOL, no new universe of ideas and inspiration, and nothing to stumble upon no matter how lucky I got.
+
