@@ -2,5 +2,5 @@
 :layout :post
 :tags  ["radio"]}
 
-<http://www.szcz.org/audio/tmot\_2007-05-24.mp3>
+<http://www.szcz.org/audio/tmot_2007-05-24.mp3>
 
