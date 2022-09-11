@@ -28,6 +28,7 @@ Please note:
 5.  Results, if any, appear below the form.
 
 <input id="eat-input" type="text"></input>
+&nbsp;
 <button id="search-eat">Find word associations</button>
 <p></p>
 <p id="eat-results"></p>
