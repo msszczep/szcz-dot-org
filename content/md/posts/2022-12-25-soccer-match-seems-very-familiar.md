@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["television" "sports"]}
 
-<img src="http://www.szcz.org/img/mls-cup.png" alt="Have I seen this before?" width="400px"/><br>
+<img src="http://www.szcz.org/img/mls-cup.png" alt="Have I seen this before?" width="200px"/><br>
 
 In late 2022, the world was entranced by a high-stakes soccer match between two elite teams with a grand trophy at stake.  The game ended 2-2 after full time, 3-3 after extra time, and was decided by penalty kick shootout.
 
