@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["announcements" "mathematics"]}
 
-<img src="http://www.szcz.org/img/shoelaces.png" alt="Never forget..." width="200px"/><br>
+<img src="http://www.szcz.org/img/shoelaces.jpg" alt="Never forget..." width="200px"/><br>
 
 I was not a very smart first grader.  I routinely tell the story as to how I was flummoxed by a first-grade subtraction assignment.  The assignment encompassed a series of problems where I was to practice subtracting by one -- two minus one, five minus one, eight minus one, and so on -- to which I proceeded to give "one" as my reply to all of these problems.  (I like to think my math skills [have improved since then](http://www.szcz.org/mathematics/).)
 
