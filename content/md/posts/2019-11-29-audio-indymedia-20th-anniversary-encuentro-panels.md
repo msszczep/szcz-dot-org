@@ -27,4 +27,4 @@ This is audio from the Indymedia 20 Encuentro Open Mic, held at the Rice Media C
 
 The fifth panel of the Indymedia 20 Encuentro, held at the Rice Media Center in Houston, Texas on December 1, 2019, themed to "Not Dead Yet: Progeny of Indymedia", featuring Elizabeth Press and Branda Miller of the Sanctuary for Independent Media in Troy, NY; John Tarleton of the Indypendent newspaper in New York City; and Rachel Clarke of the Houston Indymedia Radio Show.
 
-[https://indy20.dangerousmedia.org/](https://indy20.dangerousmedia.org/])
+[https://indy20.dangerousmedia.org/](https://indy20.dangerousmedia.org/)
