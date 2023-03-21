@@ -1,0 +1,27 @@
+{:title "Remember the protests against the Iraq War"
+:layout :post
+:tags  ["announcements" "media"]}
+
+<img src="http://www.szcz.org/img/lsd01.jpg" alt="Peace! Now!" width="400px"/><br>
+_Image credit: Red Line Radio / Chicago Indymedia_
+
+_A week before the 20th anniversary of the 2003 escalation of the War in Iraq, I got the idea of writing an op-ed to submit to the Chicago Sun-Times newspaper -- particularly since I feared that there would not be much or any attention given to the anniversary.  I wrote an op-ed which the Sun-Times informed me they had no room for, *but* they told me to feel free to resubmit as a letter about half the length of the original.  I then revised and resubmitted it, and the Sun-Times to their credit [published the letter](https://chicago.suntimes.com/2023/3/20/23645161/anniversary-iraq-war-protests-2003-chicago-michigan-avenue-george-bush-organ-donation-letters).  But I also wanted to share the original op-ed on which the published letter was based, which I do so below._
+
+Remember the protests against the Iraq War<br>
+by Mitchell Szczepanczyk
+
+When many people think of mass arrests in Chicago they often think of the 1968 protests at the Democratic National Convention, where some 600 people were arrested over the course of a week.  But this week marks the twentieth anniversary of an event that set a record for the largest mass-arrest in Chicago history, with some 900 people arrested in just one evening.
+
+On March 20, 2003, more than 18,000 peace activists marched -- with police permission -- down Lake Shore Drive.  The march halted traffic on LSD for hours, in a dramatic large-scale protest against the War in Iraq which had begun the previous night.  Organizers and marchers planned to continue the march down Michigan Avenue, but it was at the intersection of Michigan and Oak that a standoff transpired between police and marchers.  Police then trapped, attacked, and arrested marchers by the hundreds (as well as a few bystanders), some held in lock-up for two days.
+
+At the time, peace protests -- in those rare instances when major media at the time gave any coverage to protests -- were widely derided and mocked.  And yet, in Cassandra-like fashion, the peace activists' warnings about the war were proven correct.  The war's pretext of "Weapons of Mass Destruction" unraveled within months, "mission accomplished" was quickly reduced to a punchline, and the month-log war campaign became a seven-year-long occupation whose [long-term costs are slated to reach three trillion dollars](https://www.commondreams.org/news/iraq-war-cost).
+
+Then there are the [staggering human costs of the war and its aftermath](https://www.juancole.com/2023/03/americas-aggression-prequel.html): 300,000 Iraqis dead from "direct war-related violence caused by the U.S. [and allies]" (to quote the Brown University Cost of War Project).  More than seven thousand U.S. military soldiers and staff died during the "War on Terror" in Iraq, Afghanistan, and elsewhere.  Some 30,000 veterans died of suicide in the two decades since the war.  A case has even been made that the war "radicalized a generation of American zealots who for years to come will inflict violence on the country they were supposed to protect," [to quote writer Peter Maass](https://theintercept.com/2022/11/06/jan-6-far-right-us-military/).
+
+It's an irony that the war in Iraq took up so much attention in 2003, while its 20th anniversary will, I venture to guess, garner but a tiny fraction of that attention in Chicago and elsewhere.  I dare say that there will not be any haughty, chest-pounding follow-ups to the pro-war rallies that were organized in 2003 in Chicago and nationally by a syndicated radio DJ named Glenn Beck.
+
+Such commemorations of the war are not bound to garner much if any attention, it would appear, because history has vindicated those who opposed to the war.  But that's small comfort, given the ever-escalating costs and destruction of human lives in the wake of the war.  And for what?  The main assumed rationale among antiwar activists was that the war sought control over Iraq's oil, given that Iraq held the world's second-largest supply of oil reserves.  But with recent concerns over the climate emergency and global heating caused by the burning of oil and other fossil fuels, there are serious movements underway to halt and reduce fossil-fuel use.  So, all that oil we got when we "won" the war?  Yeah, we can't use it.
+
+Those who took to the streets in Chicago did garner two other wins.  One, peace activists [sued the city over the arrests as violations of free speech and free assembly](https://caselaw.findlaw.com/us-7th-circuit/1559740.html), and protesters finally won a $6.2 million settlement with the city in 2012 -- [nine years after the Lake Shore Drive protest](https://www.youtube.com/watch?v=qXxyDAiFZcE).  Two, activists also struggled to win the right to march down Michigan Avenue, which finally succeeded (for example, [a march for peace in 2010 took place on Michigan Avenue](http://chicago.indymedia.org/archive/feature/display/70409/index.php)).
+
+It's one sad story after another with the war in Iraq, and frustrating to those who protested against it (I count myself among them).  It is now a struggle to prevent the war and its aftermath, as well as those who objected to it since the beginning, from being forgotten and ignored. 
