@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["science"]}
 
-<img src="http://www.szcz.org/img/pregnant.jpg" alt="Dice" style="width: 300px;"/>
+<img src="http://www.szcz.org/img/pregnant.jpg" alt="Pregnant" style="width: 300px;"/>
 
 I barely discuss this fact, and this may be the first time I've ever mentioned this online: I'm a firm teetotaler.  I don't drink alcohol; never have, never will.  The one time I've never had anything stronger than church wine in my life was one time in my sophomore year of college when I ate soup that I didn't find out until after I ate it that it was made with unboiled wine.  I was tipsy for much of the evening, I didn't like the sensation, and I was relieved when it wore off and I had full control of my faculties again. 
 

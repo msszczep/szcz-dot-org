@@ -6,7 +6,7 @@
 
 _I wrote the contents of this post on January 17 and 18, 2016, in the months following the release of the video showing the assassination of Laquan McDonald by Chicago police, as the script for segments of an episode of Chicago Independent Television.  My original plan was to revise the script as an ebook, complete with hyperlinks and references, and then publish it on Amazon Prime.  However, I admit, I never got around to doing that.  When I was finally motivated in 2017 to work on the book with intent for publishing it, I realized that the moment had passed -- too much of the political landscape had shifted, and the necessary revisions, particularly in Part Three, would require more effort than I had hoped, too much effort for too little gain.  I didn't want the content to simply sit fallow, so at the very least I decided to post the script as is (or as was) on my website as a single lengthy post, which I do so below._
 
-###PART ONE: BACKGROUND
+### PART ONE: BACKGROUND
 
 Most people might sympathize, even agree, with the cause of political activists who strive to make the world a better place, to fight the unbeatable foe, to right the unrightable wrong.  But a great many of those same people might deem activism just a big waste of time, thinking that the status quo and the Powers That Be are just too big, too strong, to sway or stop, never mind any hope of winning substantial change.  And yet, power -- while sometimes daunting -- is also fragile, and those who seem invincible today can be weak tomorrow.  You are more powerful than you know.  And it's important to understand that persistent activism, done smartly, can pay off in profound ways, and accelerate into larger change faster than anyone expects.
 
@@ -32,7 +32,7 @@ Rahm Emanuel was bulletproof.  He withstood protest after protest by Occupy Chic
 
 It bears repeating: You are more powerful than you know.  And persistent activism, done smartly and in concert with others, can pay off in profound ways, and accelerate into larger change faster than anyone expects.  Just ask Rahm Emanuel.
 
-###PART TWO: THE PROTESTS
+### PART TWO: THE PROTESTS
 
 A handful of individuals doggedly worked to win the release of the video of the police killing of Chicago teenager Laquan McDonald.  After more than a year of work, the victory was complete: a Cook County judge sided against the police and the city, and ordered the release the video of McDonald's killing no later than Wednesday, November 25, 2015.
 
@@ -66,7 +66,7 @@ Rahm Emanuel, in the face of such growing opposition, simply entrenched himself,
 
 And that’s what has happened in the first two months.  There are signs that neither side will surrender, and may well escalate.  What might the future hold?  What are the possible endgame scenarios?  And what can the forces for justice do to prevail?  We’ll try to answer those questions in the next segment.
 
-###PART THREE: THE FUTURE
+### PART THREE: THE FUTURE
 
 Black Lives Matter protests have taken Chicago by storm since the November release of the police killing of Laquan McDonald.  And since that video’s release and ensuing nonstop protests, there have been a number of changes.
 
