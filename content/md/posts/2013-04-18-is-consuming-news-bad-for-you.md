@@ -40,9 +40,8 @@ programs (I even research and write the headlines for the radio program). But
 I like to think that such news has some utility; it isn't irrelevant (or tries
 not to be); it reports on people doing something, making a stand, and thus
 hopefully inspires folks to be active; it strives to provide some explanation
-for larger societal trends, where possible;  
-it encourages critical thinking by turning the received corporate propaganda
-model on its head.  
+for larger societal trends, where possible; it encourages critical thinking
+by turning the received corporate propaganda model on its head. 
   
 What's more, I tried quitting reading my news feeds a couple of weeks ago, in
 the hopes that it would help provide me some additional time for some other
