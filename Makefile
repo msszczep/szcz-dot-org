@@ -3,3 +3,6 @@ clean:
 
 serve:
 	lein serve
+
+rsync:
+	time ./rsync.sh
