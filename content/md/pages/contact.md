@@ -5,5 +5,3 @@
 
 Email: mitchell [at] szcz [dot] org
 
-Twitter: @msszczep
-
