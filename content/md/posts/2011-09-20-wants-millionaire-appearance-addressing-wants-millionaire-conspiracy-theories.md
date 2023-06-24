@@ -201,7 +201,7 @@ would win a _LOT_ more than a million dollars. Since the game show scandals of
 the 1950s, television broadcasters take rigging of traditional game shows
 seriously, and understandably so since game show rigging is a felony under 47
 U.S.C. Section 509. ("Reality" shows or so-called "game operas" are a
-different story altogether, and research has shown [those shows are very much rigged](\\"http://chicago.indymedia.org/media/all/display/35570/index.php\\").
+different story altogether, and research has shown [those shows are very much rigged](http://chicago.indymedia.org/media/all/display/35570/).
 ) Hence, it is very common to talk with on-set lawyers on game shows when I
 have made appearances. If some may say that I was a "victim", it was a
 victim of fate. And boo hoo -- beating better than 100-to-1 odds to get on
@@ -212,7 +212,7 @@ my personal bucket list. Some victimhood; where's my handkerchief?
   
 Appendix: My list of questions  
   
-1\. $100 - A person who successfully avoids a horrible event is said to have "dodged a" what?  
+1\. $100 - A person who successfully avoids a horrible event is said to have "dodged a" what?
 
 A. Bullet  
 
@@ -222,7 +222,7 @@ C. Boomerang
 
 D. Holiday with the in-laws  
   
-_I first heard this aphorism, ironically enough, from Alex Trebek in an episode of Jeopardy! I saw when I was a kid._  
+_I first heard this aphorism, ironically enough, from Alex Trebek in an episode of Jeopardy! I saw when I was a kid._
   
 2\. $200 - Which of these athletic footwear items need to be sharpened periodically?
   
@@ -234,7 +234,7 @@ C. Basketball sneakers
 
 D. Figure skates  
   
-_I can usually glean where a question is going before the answers are read, but in this case I wasn't sure where it was going, and was puzzled up until the last response was revealed -- hence my startled response on tape._  
+_I can usually glean where a question is going before the answers are read, but in this case I wasn't sure where it was going, and was puzzled up until the last response was revealed -- hence my startled response on tape._
   
 3\. $300 - In the comedy "Old School", Will Ferrell's character memorably takes off all his clothes and says what?  
 
@@ -246,7 +246,7 @@ C. We're going streaking!
 
 D. We're going snorkeling!  
   
-_I hadn't heard of this movie before I saw this question, but luckily I knew that streaking = no clothes. So I felt I should go for it and was correct._  
+_I hadn't heard of this movie before I saw this question, but luckily I knew that streaking = no clothes. So I felt I should go for it and was correct._
   
 4\. $500 - In a corporation, the "IT" department organizes and maintains the company's "information" what?  
 
@@ -258,7 +258,7 @@ C. Treasury
 
 D. Timetable  
   
-_This question also torpedoes the case against a Millionaire conspiracy theory. Why ask me a question about my own freaking career?_  
+_This question also torpedoes the case against a Millionaire conspiracy theory. Why ask me a question about my own freaking career?_
   
 5\. $1,000 - What is the ending to the common philosophy riddle that begins, "If a tree falls in the forest and nobody's around to hear it..."?  
 
@@ -270,7 +270,7 @@ C. Where is the forest?
 
 D. Why does it fall?  
   
-_This was a long question to complete reading aloud, and while Meredith was reading this I'm thinking to myself if I should make the smart-ass remark to say something like "Funny, I thought that phrasing responses in the form of a question were for that **other** show", but ultimately I chose not to and simply remarked saying that this question was my final answer._  
+_This was a long question to complete reading aloud, and while Meredith was reading this I'm thinking to myself if I should make the smart-ass remark to say something like "Funny, I thought that phrasing responses in the form of a question were for that **other** show", but ultimately I chose not to and simply remarked saying that this question was my final answer._
   
 6\. $2,000 - The title of the 1966 Beach Boys hit "Sloop John B" refers to what type of vehicle?  
 
@@ -282,7 +282,7 @@ C. Pickup truck
 
 D. Sailboat  
   
-_If there was any point of the game I regret, it's at this question. My friend Amanda -- whom I would call on the next question -- gave me the advice to treat the $2,000 question as another first-tier question from Obviousland.  Thing is, I hadn't heard of this song, and it seemed obvious to go with Sailboat since it's the Beach Boys and it's the only nautical-related response on the list. However, I didn't want to take a chance, and I'd have to burn the ask-the-audience lifeline at some point before getting to $25,000 or it would prove worthless, so why not here? If I had seen the full list of categories of all the remaining questions -- a change they added in the season after my appearance -- I probably would have kept the lifeline and guessed D. _  
+_If there was any point of the game I regret, it's at this question. My friend Amanda -- whom I would call on the next question -- gave me the advice to treat the $2,000 question as another first-tier question from Obviousland.  Thing is, I hadn't heard of this song, and it seemed obvious to go with Sailboat since it's the Beach Boys and it's the only nautical-related response on the list. However, I didn't want to take a chance, and I'd have to burn the ask-the-audience lifeline at some point before getting to $25,000 or it would prove worthless, so why not here? If I had seen the full list of categories of all the remaining questions -- a change they added in the season after my appearance -- I probably would have kept the lifeline and guessed D._
   
 7\. $4,000 - Introduced to grocery stores in 1902, Karo is a classic brand of what?  
 
@@ -294,7 +294,7 @@ C. Corn syrup
 
 D. Whipped cream  
   
-_This came up in my studies when I was working on topics I felt weak on; I remembered that Karo was a liquid, but I couldn't remember which liquid. I would have guessed vinegar if I had no lifeline, but I did have a lifeline, so I called Amanda -- a big foodie -- for help and she of course nailed it before I had a chance to read the answers. _  
+_This came up in my studies when I was working on topics I felt weak on; I remembered that Karo was a liquid, but I couldn't remember which liquid. I would have guessed vinegar if I had no lifeline, but I did have a lifeline, so I called Amanda -- a big foodie -- for help and she of course nailed it before I had a chance to read the answers._
   
 8\. $8,000 - The Strait of Gibraltar separates Cape Spartel in Morocco from Cape Trafalgar in what European country?  
 
@@ -306,7 +306,7 @@ C. France
 
 D. Italy  
   
-_As soon as the question popped up, the word "Spain" immediately popped into my head. But I felt I had to be sure, so I took my time (more time than they actually showed on screen) and gave my answer which was correct._  
+_As soon as the question popped up, the word "Spain" immediately popped into my head. But I felt I had to be sure, so I took my time (more time than they actually showed on screen) and gave my answer which was correct._
   
 9\. $16,000 - The acclaimed ABC drama "Brothers & Sisters" is centered on the lives of what California-based family?  
 
@@ -318,5 +318,5 @@ C. The Quinns
 
 D. The Walkers  
 
-_I knew I was sunk with proceeding any further as soon as I saw this question, and in a cruel irony Millionaire was and still is recorded in ABC studios in New York. So, here I am, sitting in ABC studios, with a question about an ABC TV show I had never heard of, and with my remaining lifeline offering no help. It so happened that it would have been slightly more of an advantage to go for it after burning the 50-50 lifeline, but with $8,000 already in hand, that's eight times more than the $1,000 I would be faced with if I got the question wrong. So I took the money and walked. _
+_I knew I was sunk with proceeding any further as soon as I saw this question, and in a cruel irony Millionaire was and still is recorded in ABC studios in New York. So, here I am, sitting in ABC studios, with a question about an ABC TV show I had never heard of, and with my remaining lifeline offering no help. It so happened that it would have been slightly more of an advantage to go for it after burning the 50-50 lifeline, but with $8,000 already in hand, that's eight times more than the $1,000 I would be faced with if I got the question wrong. So I took the money and walked._
 
