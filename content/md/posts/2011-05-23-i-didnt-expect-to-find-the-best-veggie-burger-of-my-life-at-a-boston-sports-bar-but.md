@@ -27,5 +27,5 @@ I asked to speak with the manager, a gentleman with the last name Mitchell
 Mr. Mitchell kindly told me a little bit of the behind-the-scenes regarding
 the restaurant, which accounts for _why_ the burger was so good.  
   
-When in Boston, visit [Jerry Remy's Seaport](\"http://www.jerryremysseaport.com/) (not to be confused by [Jerry Remy's across from Fenway Park](http://www.jerryremys.com/index.html)).
+When in Boston, visit [Jerry Remy's Seaport](http://www.jerryremysseaport.com/) (not to be confused by [Jerry Remy's across from Fenway Park](http://www.jerryremys.com/index.html)).
 

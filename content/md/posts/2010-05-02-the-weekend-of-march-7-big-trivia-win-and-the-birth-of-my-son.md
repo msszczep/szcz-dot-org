@@ -68,16 +68,7 @@ activities (my weekly radio show, my contributions to Chicago Independent
 Television, my Chicago Media Action work) I do an appendage of that --
 focusing on spelling out more explicitly the connections between corporations
 and markets and strengthening the case for the abolition of the latter, crazy
-though that may sound. I've [written](http://www.szcz.org/article/356) [and](http://www.szcz.org/article/297)
-[presented](http://www.szcz.org/article/343) on this before, but
-predominantly in presentations that were fairly restricted in time (my
-presentations on this topic were only ten minutes long each). Obviously, I'll
-need more time and more room to elaborate, and making this blog the planned
-venue for being a sounding-board, development platform, and distribution
-mechanism of same. The plan is: make a blog post once a week with this focus
-in mind, and redistribute through my various media commitments (radio,
-television, other internet sites) of the case about corporations, markets, and
-economics.  
+though that may sound. I've [written](http://www.szcz.org/article/356) [and](http://www.szcz.org/article/297) [presented](http://www.szcz.org/article/343) on this before, but predominantly in presentations that were fairly restricted in time (my presentations on this topic were only ten minutes long each). Obviously, I'll need more time and more room to elaborate, and making this blog the planned venue for being a sounding-board, development platform, and distribution mechanism of same. The plan is: make a blog post once a week with this focus in mind, and redistribute through my various media commitments (radio, television, other internet sites) of the case about corporations, markets, and economics.
   
 Next week: The Invisible Hand versus The Invisible Foot
 

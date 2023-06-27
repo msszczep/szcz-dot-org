@@ -82,5 +82,4 @@ lowest customer satisfaction ratings of any of the country's cable and
 satellite TV providers.  
   
 For all of these reasons, the FCC and the Justice Department should reject the
-proposed merger, which for the public is decidedly not Comcastic. "
-
+proposed merger, which for the public is decidedly not Comcastic.

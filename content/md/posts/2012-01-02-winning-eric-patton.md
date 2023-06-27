@@ -64,8 +64,7 @@ thus easily ignored by the broad United States left, which is not eager to
 incorporate their participatory economic organizational principles into what
 they do.  
   
-But if a large outfit like United for Peace and Justice, with its one-million-
-dollar per-year budget, forswore the Dark Side of the Force, going
+But if a large outfit like United for Peace and Justice, with its one-million-dollar per-year budget, forswore the Dark Side of the Force, going
 participatory instead, you would suddenly have an example too large to ignore.
 People all over the left would know about it. They would begin thinking about
 it, they would start asking uncomfortable questions about it, and very quickly
@@ -92,8 +91,7 @@ As long as we did our jobs properly, the movement would _never_ stop. We'd
 just keep winning and winning and winning.  
   
 Would it really be that easy? No. Because the hard part is getting United for
-Peace and Justice to organize around participatory principles. But once you do
-that, the hard part is done. Everything else becomes gravy.  
+Peace and Justice to organize around participatory principles. But once you do that, the hard part is done. Everything else becomes gravy.  
   
 In ten years, capitalism would be dead, and we'd have made unbelievable
 enormous headway into dealing with sexism, racism, heterosexism, ageism, you
