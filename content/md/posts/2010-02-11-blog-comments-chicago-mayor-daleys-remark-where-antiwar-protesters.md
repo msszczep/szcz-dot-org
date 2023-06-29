@@ -52,5 +52,5 @@ political will to issue a permit, and there still is no political will to
 issue a permit."  
   
 A single remark at a single press conference doesn't hold a candle to a long
-and sordid history. Daley-boy has a great deal to answer for."
+and sordid history. Daley-boy has a great deal to answer for.
 

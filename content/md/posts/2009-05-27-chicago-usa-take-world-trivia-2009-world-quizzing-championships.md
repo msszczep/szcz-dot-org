@@ -28,17 +28,16 @@ local politics or any other local interest stories. Do expect questions about
 mythology, the Olympic Games, Disney films, the Solar System, wildlife, and
 Nobel Laureates; in short, expect questions for which participants from Buenos
 Aries, Monrovia, or Sydney might possibly know the answers. Sample questions
-can be found at
-[http://www.wqc2009.com/2.html](\\http://www.wqc2009.com/2.html\\")  
-  
+can be found at [http://www.wqc2009.com/2.html](http://www.wqc2009.com/2.html)
+
 The World Quizzing Championships will consist of 200 questions divided into
 eight broad subjects. There is no cost to participate though participants are
 strongly encouraged to RSVP in advance. To RSVP, email
-[iqausa@gmail.com](\\"mailto:iqausa@gmail.com\\") or call 1-303-520-0200.  
+[iqausa@gmail.com](mailto:iqausa@gmail.com) or call 1-303-520-0200.  
   
 For more information or additional background, please visit
-[www.wqc2009.com](\\"http://www.wqc2009.com\\") and/or
-[http://iqausa.googlepages.com](\\"http://iqausa.googlepages.com\\").  
+[www.wqc2009.com](http://www.wqc2009.com) and/or
+[http://iqausa.googlepages.com](http://iqausa.googlepages.com).  
   
 contact:  
   
@@ -49,7 +48,6 @@ Boulder, Colorado 80307-3037 USA
 +1 303 957 5487 fax  
 iqausa@gmail.com  
   
-  
 or  
   
 International Quiz Association - Headquarters  
@@ -58,5 +56,3 @@ Jane Allen
 Quizzing Ltd  
 +44 7789 073757 mobile tel  
 jane@iqagb.co.uk  
-"
-
