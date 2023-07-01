@@ -21,18 +21,18 @@ changes were "harmful to the future stability of CAN TV".
   
 The dispatch listed a number of objections to the revised Stone/Burke
 ordinance: "The ordinance provides no adequate funding solution for CAN TV.
-The 1% PEG fee from all state holders except for AT&T; will go to the City.
+The 1% PEG fee from all state holders except for AT&T will go to the City.
 Current funding support from [current cable providers] Comcast, RCN and
 WideOpenWest will go to the City should those companies opt into state
 franchises."  
   
 Alderman Stone, a longtime CAN TV supporter, argued on behalf of the revised
 ordinance, claiming that the revisions would actually help provide funding for
-CAN TV by holding new-cable-TV-provider AT&T; to the 1% state funding
+CAN TV by holding new-cable-TV-provider AT&T to the 1% state funding
 requirement.  
   
 CAN TV Executive Director Barbara Popovic testified in response, arguing that
-the ordinance only holds AT&T; into account, but does nothing should incumbent
+the ordinance only holds AT&T into account, but does nothing should incumbent
 cable providers opt for statewide cable franchises, as they now can under the
 recent state franchise law. Thus, the current fight over state funds could
 well be repeated with every possible new state franchisee. Moreover, CAN TV is
