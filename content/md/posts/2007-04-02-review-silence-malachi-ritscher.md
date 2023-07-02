@@ -1,6 +1,6 @@
 {:title "Review: The Silence of Malachi Ritscher"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "reviews"]}
 
 _The Silence of Malachi Ritscher_  
 a play by the theater group Theater 5.2.1  

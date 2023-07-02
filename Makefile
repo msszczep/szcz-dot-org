@@ -8,4 +8,4 @@ rsync:
 	time ./rsync.sh
 
 tail:
-	ls -alF content/md/posts/*md | tail -200 | head	
+	ls -alF content/md/posts/*md | tail -300 | head	
