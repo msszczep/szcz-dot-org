@@ -1,4 +1,4 @@
-{:title "The Ministry of Truth: Dave Zirig - Fight Night at the NBA"
+{:title "The Ministry of Truth: Dave Zirin - Fight Night at the NBA"
 :layout :post
 :tags  ["radio"]}
 

@@ -2,12 +2,12 @@
 :layout :post
 :tags  ["media"]}
 
-Throughout 2004, Third Coast Press reported on CAN TV,the network of Chicago
+Throughout 2004, Third Coast Press reported on CAN TV, the network of Chicago
 public access TV channels, and the funding fight over its future. In January
 2004, the cable company RCN had defaulted on due payments to CAN TV, which
 brought tremendous protest and record-setting fines against RCN. Not long
-thereafter,RCN filed for bankruptcy.  
-  
+thereafter, RCN filed for bankruptcy.  
+
 In May 2004, Chicago Alderman Bernard Stone (50th Ward) had offered an
 ordinance to restructure the funding for CAN TV. The ordinance was passed by
 the city's Finance Committee, but didn't advance to the City Council. This led

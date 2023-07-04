@@ -596,6 +596,7 @@ Redirect 301 /article/492 /posts/2014-11-01-video-connection-between-global-warm
 Redirect 301 /article/493 /posts/2014-05-04-video-profiles-cowardice-rahm-emanuel.html
 Redirect 301 /article/494 /posts/2015-04-01-video-helen-morley-rahm-emanuel.html
 Redirect 301 /article/495 /posts/2015-05-01-video-victory-net-neutrality-wars-personal-recollection-2006-2015.html
+Redirect 301 /posts/2005-01-13-ministry-truth-dave-zirig-fight-night-nba /posts/2005-01-13-ministry-truth-dave-zirin-fight-night-nba
 
 RewriteCond %{QUERY_STRING} ^p=1$
 RewriteRule ^blog /posts/2010-05-02-the-weekend-of-march-7-big-trivia-win-and-the-birth-of-my-son.html
