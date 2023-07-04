@@ -1,6 +1,6 @@
 {:title "Big Brother at the Grocery Store: The RFID Fight and McCormick Place Activism"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 This past September, Chicago played host to the formal unveiling of a major
 new surveillance technology, which may finally destroy what privacy we have

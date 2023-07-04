@@ -1,6 +1,6 @@
 {:title "You're on the air. Go ahead please: How I made my own radio broadcast and how you can too"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 This is a first-person behind-the-scenes look of a live radio web broadcast
 held in Chicago to cover the March 20, 2004 peace protests. But our story

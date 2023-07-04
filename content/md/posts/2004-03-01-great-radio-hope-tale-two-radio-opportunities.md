@@ -1,6 +1,6 @@
 {:title "Great Radio Hope?  The tale of two radio opportunities"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 You may have heard that a nationwide radio network of liberal politics is
 poised to take to the airwaves sometime in spring 2004, but you might not have

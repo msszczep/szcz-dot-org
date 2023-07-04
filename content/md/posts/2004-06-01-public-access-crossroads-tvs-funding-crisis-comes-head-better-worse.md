@@ -1,6 +1,6 @@
 {:title "Public Access at the Crossroads: CAN TV's Funding Crisis Comes to a Head, for Better or Worse"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 CAN TV (Chicago Access Network Television, Chicago's fleet of public access
 television channels) found itself spending the year 2004 to date stuck in a

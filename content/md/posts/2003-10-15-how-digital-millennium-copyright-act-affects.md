@@ -83,5 +83,5 @@ criminals and freedom of speech. And perhaps best of all, legislation is being
 considered to remedy some of the odious parts of the DMCA: the Digital Media
 Consumers' Rights Act, which would affirm the legitimate uses of computer
 coding and research, is being introduced in Congress. (You can find out more
-and get involved at [http://action.eff.org/action/index.asp?step=2&item;=2421](http://action.eff.org/action/index.asp?step=2&item=2421))."
+and get involved at [http://action.eff.org/action/index.asp?step=2&item=2421](http://action.eff.org/action/index.asp?step=2&item=2421))."
 

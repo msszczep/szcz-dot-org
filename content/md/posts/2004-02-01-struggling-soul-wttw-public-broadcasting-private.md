@@ -1,6 +1,6 @@
 {:title "Struggling for the Soul of WTTW: Public Broadcasting Going Private"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 Chicago's major PBS affiliate, WTTW-TV Channel 11, spent 2003 as a veritable
 punching bag in a twelve-round bout. The first blow against the station

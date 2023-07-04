@@ -1,6 +1,6 @@
 {:title "How Now Wow COW! -- Chicago Activists Use Clever Media Tool for Outreach Success"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 One justified criticism of a lot of left political activist efforts is the
 lack of outreach, bringing in outsiders and people entirely new to such

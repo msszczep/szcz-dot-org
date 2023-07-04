@@ -1,6 +1,6 @@
 {:title "Rapid City Memories: Chicago media activists embark on roadtrip to South Dakota to face the FCC"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 This is my recount of a trip I made to South Dakota to attend a May 2004
 hearing held by the Federal Communications Commission (FCC), and how that

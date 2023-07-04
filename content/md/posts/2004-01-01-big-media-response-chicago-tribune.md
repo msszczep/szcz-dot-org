@@ -1,6 +1,6 @@
 {:title "Big Media: A Response to the Chicago Tribune"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 On August 6, 2003, the Chicago Tribune published an editorial headlined "Big
 Media Confusion Reigns", which advocated support for the now-infamous FCC

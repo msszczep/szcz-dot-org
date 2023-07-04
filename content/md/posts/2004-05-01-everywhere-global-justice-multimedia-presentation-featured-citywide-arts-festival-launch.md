@@ -1,6 +1,6 @@
 {:title "We Are Everywhere: Global justice multimedia presentation featured at citywide arts festival launch"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 On April 18, 2004, Chicago saw the kickoff of Versionfest, an annual festival
 devoted to technology, art, and activism. The kickoff took place across three

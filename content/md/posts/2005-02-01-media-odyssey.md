@@ -1,6 +1,6 @@
 {:title "Our Media Odyssey"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 "Prediction is very difficult, especially about the future," quipped the
 Danish physicist Niels Bohr. Few people predicted the developments in of media

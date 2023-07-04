@@ -713,7 +713,6 @@ Redirect 301 /legal /pages/legal
 #Redirect 301 /indymedia /tags/indymedia.html
 #Redirect 301 /radio /tags/radio.html
 Redirect 301 /misc_media /media
-Redirect 301 /thirdcoastpress /media
 Redirect 301 /chicago_maroon /media
 Redirect 301 /gatewayarch /posts/2002-04-23-mistake-base-gateway-arch/
 Redirect 301 /science_and_math /science

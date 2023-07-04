@@ -1,6 +1,6 @@
 {:title "The Illinois Telecommunications Act and the Future of the Internet In Illinois: An Interview with Organizer Michael Maranda"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 In the midst of an ever-changing digital landscape, the digital future for the
 state Illinois will be likely be shaped with a 2005 rewrite of The Illinois

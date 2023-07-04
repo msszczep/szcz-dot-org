@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["indymedia"]}
 
-_Note: When I came home from this forum, I had heard word that an uncle of mine had died of a sudden heart attack. He was just 49 years old; I was one of his pallbearers. _
+_Note: When I came home from this forum, I had heard word that an uncle of mine had died of a sudden heart attack. He was just 49 years old; I was one of his pallbearers._
 
 Disclaimer: The opinions expressed in this report are solely those of the
 writer, Mitchell Szczepanczyk, and do not necessarily reflect those of any
