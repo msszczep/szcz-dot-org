@@ -19,7 +19,7 @@ manage the virtual roads for internet and digital communications don't
 discriminate who travels on those roads and why. But America's major cable and
 telecommunications companies are heavily lobbying Congress now to change that.
 
-Companies like AT&T;, Verizon, and Comcast want to abolish net neutrality and
+Companies like AT&T, Verizon, and Comcast want to abolish net neutrality and
 set up the virtual equivalent of tolls on the internet. The idea would be to
 set up separate tiers of internet access - the digital equivalent of a ten-
 lane superhighway alongside a single-lane dirt road. If you want to access the

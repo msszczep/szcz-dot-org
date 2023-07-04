@@ -26,8 +26,7 @@ newscasts and public-affairs shows before the election, but people are most
 likely to pay attention to electoral issues as an election approaches.
 
 Moreover, if people are going to want to learn about local news and public
-affairs, then obviously they're going to watch the local TV news and public-
-affairs shows. It makes sense to focus on the last month and especially on
+affairs, then obviously they're going to watch the local TV news and public-affairs shows. It makes sense to focus on the last month and especially on
 programs devoted to news and public affairs, which should be replete with
 coverage of local politics--or at least have more coverage of local politics
 than they had.
