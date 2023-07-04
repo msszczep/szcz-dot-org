@@ -39,7 +39,9 @@ bladder. Yummy.)
 ticket lengthsduh! Translation: "St. Mary's Church in the hollow of the white
 hazel near to the rapid whirlpool of Llantysilio of the Red Cave."
 
-**lopadotemachoselachogaleokranioleipsanodrimhypotrimmatosilphioparaomelitokatakechymenokichlepikossyphophattoperisteralektryonoptekephalliokigklopelei olagoiosiraiobaphetraganopterygon**
+**lopadotemachoselachogaleokranioleipsanodrimhypotrimmatosilphioparaomelito
+katakechymenokichlepikossyphophattoperisteralektryonoptekephalliokigklopele
+iolagoiosiraiobaphetraganopterygon**
 
 (189 letters; a ghoulash composed of all the leftovers from the meals of the
 leftovers from the meals of the last two weeksfrom Aristophanes' The

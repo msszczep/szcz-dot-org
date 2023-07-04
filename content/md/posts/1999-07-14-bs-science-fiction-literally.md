@@ -42,8 +42,7 @@ the study of science fiction will inject it with a bit of juice.
 Brake also hopes the course will create better science communicators and
 provide a better perspective than a traditional scientific education.
 
-"The problem with a lot of science undergraduates is that they're spoon-
-fed," he said. "They can be unthinking, uncritical. We're hoping to kick in
+"The problem with a lot of science undergraduates is that they're spoon-fed," he said. "They can be unthinking, uncritical. We're hoping to kick in
 a bit more critical thinking. We hope our students will be a bit more rounded
 than your typical science undergraduate."
 
