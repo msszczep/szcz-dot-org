@@ -1,6 +1,6 @@
 {:title "Chicago Colo: A New Internet Opportunity for Chicago"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 A community colocation project is an effort to pool together technical
 resources to provide no- or low-cost Internet resources and services to non-
@@ -15,8 +15,8 @@ with Chicago Colo whose devoted involvement with the project includes roles as
 webmaster, mailing list administrator, and the lead investigator for colo
 space.  
   
-**How did Chicago Colo get started? **   
-  
+**How did Chicago Colo get started?**
+
 In the fall of 2002 I became a client of the California Colo
 ([www.communitycolo.net](http://www.commmunitycolo.net)). The more I
 learned about the group, the more I wished I could be directly involved with

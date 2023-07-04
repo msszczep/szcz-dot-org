@@ -1,6 +1,6 @@
 {:title "Review of \"Dick: The Man Who Is President\" by John Nichols"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 **Review of _Dick: The Man Who Is President_ by John Nichols**  
 November 1, 2004

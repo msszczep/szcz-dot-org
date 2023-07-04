@@ -1,6 +1,6 @@
 {:title "Chicago Tonight, Chicago Too White?: An interview about a study of Chicago public television"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 With mentions in the Sun-Time, the Chicago Reader, the Chicago Daily Herald,
 WBEZ, WZRD, WLUW, Free Press, Media Channel, and Current Magazine (the trade

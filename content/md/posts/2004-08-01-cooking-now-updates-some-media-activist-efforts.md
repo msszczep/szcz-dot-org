@@ -1,6 +1,6 @@
 {:title "We're Cooking Now: Updates on some media activist efforts"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 Regular readers of Third Coast Press are familiar with my regular entrees into
 the scene of media politics and media activism. There are a lot of bite-sized

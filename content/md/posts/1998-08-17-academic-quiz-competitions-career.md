@@ -96,6 +96,8 @@ commendations I've earned.
   
 
   27\. NAQT Intercollegiate Championship Tournament, Vanderbilt University, 1998; Chicago A, finished Second Place! :-)
+
+
   28\. ACF National Championship Tournament, University of Maryland College Park, 1998; Chicago B, captain, writer
   
 

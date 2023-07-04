@@ -1,8 +1,8 @@
 {:title "Chicago Cable Stories: Good News, Bad News"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
-**Victory in CAN TV funding efforts **   
+**Victory in CAN TV funding efforts** 
   
 CAN TV is the fleet of public access cable television channels servicing the
 Chicago community. As Third Coast Press reported throughout the past year, CAN
@@ -55,7 +55,7 @@ recur. Stay tuned, true believers.
 For additional information or to learn how you can help, contact CAN TV at
 312/738-1400 or visit cantv.org.  
   
-**Is the Chicago Cable Commission snubbing the public? **   
+**Is the Chicago Cable Commission snubbing the public?**
   
 In less positive news, we go to the Chicago Cable Commission, the city-appointed body for handling matters involving the city's cable TV system. The
 commission holds monthly meetings in the basement of the Harold Washington
@@ -71,7 +71,7 @@ B. Restrict your testimony to a maximum of two minutes (unless the Commission
 chair says otherwise, at his or her discretion, under no specified rules for
 outlining discretion).  
   
-What's more,a comment can still be ignored if the chair thinks that they are
+What's more, a comment can still be ignored if the chair thinks that they are
 redundant or irrelevant. No guidelines are given as to what qualifies as
 "redundant" or "irrelevant."  
   

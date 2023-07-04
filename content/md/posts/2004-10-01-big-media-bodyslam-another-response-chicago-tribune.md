@@ -1,6 +1,6 @@
 {:title "Big Media Bodyslam: Another Response to the Chicago Tribune"
 :layout :post
-:tags  ["media"]}
+:tags  ["media" "thirdcoastpress"]}
 
 The very first cover of Third Coast Press featured an article in which I
 obliterated, sentence by sentence, an editorial published by the Chicago
