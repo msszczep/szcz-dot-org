@@ -11,6 +11,7 @@ To upload the files to the server, run the `rsync.sh` script from the command li
 
 Tag categories:
 
+`
 announcements
 asl
 economics
@@ -30,3 +31,4 @@ television
 travel
 trivia
 vegan
+`
