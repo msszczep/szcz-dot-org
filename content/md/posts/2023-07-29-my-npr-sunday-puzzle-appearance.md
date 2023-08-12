@@ -8,7 +8,7 @@ Since 2013, I've been [writing computer programs to solve the weekly NPR Sunday 
 
 "Someday" for me was May 11, 2023, when at the end of my workday I received a phone call from Gabriel, a producer with National Public Radio.  Gabriel informed me that I had been chosen to play the NPR Sunday Puzzle for that week, and to be available for an over-the-phone recording the next day, Friday, May 12, 2023, which would be broadcast that Sunday, May 14, 2023.
 
-My going assuption was that they would record on a Thursday to air that following Sunday, but with an extra day in hand, I took some time on Thursday night to figure out what I would want to say.  This could well be, as a friend of mine later pointed out, the only chance I would ever have to be on the NPR Sunday Puzzle, so I should try to make it count.  You can see my notes which you can find at the top of this; I also used the same paper to take notes during the puzzle to help me solve.
+My going assuption was that they would record on a Thursday to air that following Sunday, but with an extra day in hand, I took some time on Thursday night to figure out what I would want to say.  This could well be, as a friend of mine later pointed out, the only chance I would ever have to be on the NPR Sunday Puzzle, so I should try to make it count.  You can see my notes which you can find at the top of this post; I also used the same paper to take notes during the puzzle to help me solve.
 
 We were on the phone for about 20 minutes, and among the topics we discussed:
 
