@@ -729,4 +729,13 @@ Redirect 301 /braingames /trivia
 #RewriteRule ^/blog/.*$ /index.html 
 Redirect 301 /economic_equity_parecon_v1.ppt /img/economic_equity_parecon_v1.ppt
 Redirect 301 /womens_econ_equity_and_parecon.pdf /img/womens_econ_equity_and_parecon.pdf
+Redirect 301 /jeopardyheatmap.html /elmapps/jeopardyheatmap.html
+Redirect 301 /jeopardyheatmap /elmapps/jeopardyheatmap.html
+Redirect 301 /zgq.html /elmapps/zgq.html
+Redirect 301 /pecs.html /elmapps/pecs.html
+Redirect 301 /mk8stats.html /elmapps/mk8stats.html
+Redirect 301 /trivia_scoreboard.html /elmapps/trivia_scoreboard.html
+Redirect 301 /trivia_scoreboard /elmapps/trivia_scoreboard.html
+Redirect 301 /trivia-scoreboard /elmapps/trivia_scoreboard.html
+Redirect 301 /triviascoreboard /elmapps/trivia_scoreboard.html
 Redirect 301 /subanagram.pl https://gist.github.com/msszczep/4d5ed17d64c2da4fb676209b7dc4ca00
