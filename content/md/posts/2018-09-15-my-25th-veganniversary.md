@@ -4,7 +4,7 @@
 
 <img src="http://www.szcz.org/img/vegan-logo.png" width="150px" alt="Vegan 25"/>
 
-For most of 1993, I was practicing a vegetarian diet and learning about the impacts one's diet has on one's life.  I was 19 years old, and I was thinking of going vegan as well; the harder difficulty in my mind was going vegetarian, since I had grown up with eating meat as part of my diet and was uncomforable with the idea of a diet without meat.  But once I took the plunge, going vegan was the much easier task to do.  
+For most of 1993, I was practicing a vegetarian diet and learning about the impacts one's diet has on one's life.  I was 19 years old, and I was thinking of going vegan as well; the harder difficulty in my mind was going vegetarian, since I had grown up with eating meat as part of my diet and was uncomfortable with the idea of a diet without meat.  But once I took the plunge, going vegan was the much easier task to do.  
 
 On September 14, 1993, I was having breakfast at the dining hall of West Quad on the campus of the University of Michigan, and I made the spur-of-the-moment decision grounded in months of preparation that I would go vegan from then on and that my meal at that breakfast -- a bowl of Grape-Nuts cereal with chocolate cow's milk -- would be my last non-vegan meal in my life.  Needless to say, a strange way to end my non-vegan life.
 
@@ -18,7 +18,7 @@ I'm usually ashamed when people have to go out of their way to accomodate me (th
 
 I've let my hair down somewhat in recent years, to say that, on those times when I mention that I am vegan, I accompany it by "...for 24 years".  You have to clean up the mess of splattered brains after people's minds are blown.  I can now say "...for 25 years". 
 
-Some vegans are motivated to be vegan more out of fear or hang-ups about food rather than the positive aspects of a vegan diet.  As a vegan, I've never had a hang-up about food.  On the contrary, veganism served as a means to get over my hang-ups about food.  Growing up, I was a very picky eater (a "pickatarian", as one friend puts it).  Since being vegan, I not picky anymore, I'm _prinicipled_.  This might explain probably why I've stuck with being a vegan for so long.  It suits me.  I like reducing my worry about disease and weight, to frontload problems early on so I don't have as much to worry about later. 
+Some vegans are motivated to be vegan more out of fear or hang-ups about food rather than the positive aspects of a vegan diet.  As a vegan, I've never had a hang-up about food.  On the contrary, veganism served as a means to get over my hang-ups about food.  Growing up, I was a very picky eater (a "pickatarian", as one friend puts it).  Since being vegan, I not picky anymore, I'm _principled_.  This might explain probably why I've stuck with being a vegan for so long.  It suits me.  I like reducing my worry about disease and weight, to frontload problems early on so I don't have as much to worry about later. 
 
 And it pays off.  Here's a tweet I wrote in 2012: "Blood results came back: Cholesterol 130, triglycerides 41. Nurse said they were the lowest numbers she'd seen in ten years. #backflip"
 
