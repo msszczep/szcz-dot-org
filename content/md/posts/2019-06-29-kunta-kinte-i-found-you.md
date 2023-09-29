@@ -10,7 +10,7 @@ bug, I tend to say the same quote:
 _"Kunta Kinte, I found you."_
 
 Kunta Kinte was the ancestor of Alex Haley.  Haley had traced his ancestry all the way back
-to that of a young man from what's now The Gambia, who was sized by slave traders, brought
+to that of a young man from what's now The Gambia, who was seized by slave traders, brought
 aboard the Lord Ligonier to the Americas, sold, and lived out his life as a slave.
 
 Seven generations later, Alex Haley, the writer known for _The Autobiography of Malcolm X_,
