@@ -16,7 +16,7 @@ For a decade (2004 - 2014), Mitchell hosted the weekly public affairs show _The 
 
 ## Video / television
 
-From 2004 to 2017, Mitchell has helped produce and contributed to Chicago Indymedia's monthly TV series, _Chicago Independent Television_, which was distributed on Chicago cable television and on national satellite.  He produced about 70 short films over the years for the show; many of those segments are online and linked on this website (archived under the "indymedia" tag on this website).  He has also made a number of past guest appearances on the public affairs program _26 N. Halsted_ on Chicago TV station WCIU-TV.
+From 2004 to 2017, Mitchell has helped produce and contributed to Chicago Indymedia's monthly TV series, _Chicago Independent Television_, which was distributed on Chicago cable television and on national satellite.  He produced about 70 short films over the years for the show; all those segments are online and linked on this website (archived under the "indymedia" tag on this website).  He has also made a number of past guest appearances on the public affairs program _26 N. Halsted_ on Chicago TV station WCIU-TV.
 
 ## Political activism
 
@@ -26,7 +26,7 @@ Mitchell has been involved with groups working on the heterodox economic model k
 
 ## Trivia
 
-Mitchell is also a quiz and game show aficionado, having played quizbowl in college and graduate school.  He has written and edited questions for NAQT, National Academic Quiz Tournaments, and also occasionally volunteers with the International Quizzing Association.  In September 2007, he appeared as a contestant on the syndicated American version of Who Wants To Be A Millionaire. In September 2008, he was a member of America's Team for an episode of the syndicated TV show "Trivial Pursuit: America Plays".  Mitchell has also been active with the Game Show Congress and has participated in the Trivia Championships of North America.  He still occasionally plays bar trivia and he was a member of the teams which won the 2013 Team Trivia National Championship and which finished tied for second in the 2014 Team Trivia National Championship.  He is currently [active with LearnedLeague](https://learnedleague.com/profiles.php?61719).
+Mitchell is also a quiz and game show aficionado, having played quizbowl in college and graduate school.  He has written and edited questions for NAQT, National Academic Quiz Tournaments, and also occasionally volunteers with the International Quizzing Association.  In September 2007, he appeared as a contestant on the syndicated American version of Who Wants To Be A Millionaire. In September 2008, he was a member of America's Team for an episode of the syndicated TV show "Trivial Pursuit: America Plays".  Mitchell has also been active with the Game Show Congress and has participated in the Trivia Championships of North America.  He still occasionally plays bar trivia and he was a member of the teams which won the 2013 Team Trivia National Championship and which finished tied for second in the 2014 Team Trivia National Championship.  He is currently [active with LearnedLeague](https://learnedleague.com/profiles.php?61719), and [was a guest participant on the NPR Sunday Puzzle](http://www.szcz.org/posts/2023-07-29-my-npr-sunday-puzzle-appearance/).
 
 ## Languages / linguistics
 
