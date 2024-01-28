@@ -5,7 +5,7 @@
 <img src="http://www.szcz.org/img/drucilla-ronchen.jpg" width="300px" alt="Drucie"/>
 <br>
 <i>Image credit: <a href="https://deafwomenchicago.com/welcome/about-deaf-women-of-chicago/in-memoriam/">Deaf Women of Chicago</a></i>
-
+<br><br>
 
 In 1982, I attended a party to celebrate my cousin's First Holy Communion.  It was at that party that I was introduced to a book (I later found out this book was "<a href="https://archive.org/details/joyofsigningillu00riek/page/n1/mode/2up">The Joy of Signing</a>") that demonstrated a language using your hands, arms, and body -- American Sign Language (ASL).  I thought this was just the coolest thing, and for about a year or so thereafter I explored it some with other books I found, including one featuring <a href="https://en.wikipedia.org/wiki/Linda_Bove">Linda from Sesame Street</a>.  My work on ASL would wane, but I vowed to myself that someday somehow I would learn ASL.
 
