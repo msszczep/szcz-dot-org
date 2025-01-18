@@ -1,6 +1,6 @@
 {:title "Words to inspire"
 :layout :post
-:tags  ["announcements"]}
+:tags  ["announcements" "elections"]}
 
 <img src="http://www.szcz.org/img/candleindarkness.jpg" alt="This little light of mine..." style="width: 250px;"/>
 
