@@ -2,7 +2,7 @@
 :layout :post
 :tags  ["programming" "television" "media"]}
 
-<img src="http://www.szcz.org/justine-bateman.jpg" alt="Justine" style="width: 250px;"/>
+<img src="http://www.szcz.org/img/justine-bateman.jpg" alt="Justine" style="width: 250px;"/>
 Photo by <a href="//commons.wikimedia.org/w/index.php?title=User:Tanya77&amp;action=edit&amp;redlink=1" class="new" title="User:Tanya77 (page does not exist)">Tanya77</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=155274874">Link</a>
 
 Yes, I watched American TV when I was growing up, and yes I saw as part of the vaunted NBC Thursday night lineup the sitcom Family Ties.  The Family Ties cast included Justine Bateman, the older sister of still-acting Jason Bateman (who is forever seared in my memory as the co-star of the long-forgotten sitcom _[It's Your Move](https://archive.org/details/Its_Your_Move_1984)_, but never mind).  Justine Bateman has had a multifaceted career as an actor on many TV series, plus [she wrote a book about Fame](https://www.akashicbooks.com/catalog/fame/), and [directed a feature film](https://www.imdb.com/title/tt6852672/).  And to top it all off, Justine decided in her late 40s [to pursue an undergraduate degree at UCLA in computer science](https://www.fastcompany.com/3037944/justine-bateman-on-pulling-off-a-major-midlife-career-pivot); she was under contract during her time on Family Ties and disallowed during those years from attending college.
