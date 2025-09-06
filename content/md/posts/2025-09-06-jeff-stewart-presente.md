@@ -1,0 +1,17 @@
+{:title "Jeff Stewart - Presente"
+:layout :post
+:tags  ["trivia"]}
+
+<img src="http://www.szcz.org/img/jeff-stewart-autograph.jpg" alt="Live life well!" width="300px"/><br>
+
+My very first tryout for the game show Jeopardy! took place in the fall of 1993 in Omaha, Nebraska -- the designated tryout venue for the Midwest United States for the 1994 Jeopardy! college championship.  I was heralded by my dormmates as a lock to get on the show (they even threw a mid-hall party for me), and yet I didn't pass the qualifying test -- the only time in my life when I took the test and did _not_ pass.  But I did meet one person in Omaha -- in fact, I sat next to her during the test -- who did pass the test _and_ qualified for the championship tournament _and_ advanced to the final: a student from Michigan Tech named Keri Ellis.
+
+Keri lost in the final to a student from Brigham Young University named Jeff Stewart.  Jeff won the college championship tournament, qualified for the 1994 tournament of champions, advanced to _that_ tournament's two-game-cumulative final, finished with a score of $0 after game one, then roared back in game two and wound up missing first place by a single dollar.  (Sidebar: At the time, BYU was a hotbed of quiz activity -- my former teammate [Darren](https://fisher.osu.edu/people/roulstone.1) played in that year's College Bowl championship, qualifying for the final but not playing in it because it was held on a Sunday and BYU didn't play on Sundays.  Plus, there was another chap who played for BYU at this time by the name of Ken Jennings.)  
+
+I first met Jeff when I myself played on the collegiate quiz circuit.  We met at Penn Bowl, and I recognized Jeff on sight when Jeff was now playing for Princeton.  We played against each other a handful of times the next four years, most notably at the 1995 Cornell tournament when my team defeated Jeff's team in round-robin play and we both qualified for the playoffs.  He and I developed something of a rapport; I was honored when Jeff told me once that he chose _me_ as his rotisserie quizbowl player.  We kept in touch and followed each other on Facebook over the years.
+
+In 2022, Jeff announced that he was diagnosed with not one but _two_ cancers.  He scrambled [to write and self-publish a book](https://www.amazon.com/Living-Inspiration-Father-Jeff-Stewart/dp/B0C3KSDYZ6) intended for his now _seven_ children and really for the rest of the world, published in under a year.  I bought a copy of a book from Jeff, who graciously mailed me a copy and autographed it (a photograph of the autograph is at the top of this page).  He continued to chronicle his struggle against his cancers on social media -- a struggle he ultimately lost.  On August 14, 2025, Jeff Stewart [died](https://www.facebook.com/jeffrey.j.stewart.73/posts/jeff-passed-away-yesterday-in-portland-oregon-at-4-pm-he-was-surrounded-by-his-f/10239141758866053/).  
+
+When I first saw Jeff on television, I counted myself lucky that I knew someone who lost to Jeff and I though that would be as close I as I would ever get to quizzing excellence.  I thought it was audacious of me to think I would ever get to meet Jeff, never mind get to know him and play games that rewarded the love of learning we both shared.  And yet, that's exactly what happened.  I count myself fortunate that I got to meet and play with and know Jeff, and I count it as a tragedy that he left us too soon.
+
+Jeff Stewart, presenté!
