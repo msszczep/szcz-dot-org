@@ -2,8 +2,7 @@
 :layout :post
 :tags  ["economics" "programming" "mathematics"]}
 
-In August 2025, I gave two presentations for the inaugural conference
-of the [International Network on Democratic Economic Planning](https://www.indep.network/), but.
+In August 2025, I gave two presentations for the inaugural conference of the [International Network on Democratic Economic Planning](https://www.indep.network/).
 
 [The first presentation I gave](https://participatoryeconomy.org/annual-participatory-planning-an-interactive-prototype-by-mitchell-szczepanczyk/) 
 also happened to be the very first
